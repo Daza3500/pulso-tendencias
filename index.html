@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pulso · Tendencias virales</title>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef0f7;--card:#fff;--ink:#1b1740;--mute:#6b6a85;--line:#d9dcec;--hot:#e5195f;--yt:#d92b2b;--wk:#5d6b7a;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root{--bg:#131227;--card:#1d1b3a;--ink:#f1f0ff;--mute:#a09fc4;--line:#322f5c;--hot:#ff4d86;--yt:#ff6b6b;--wk:#9fb0c2}}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.5 "DM Sans",system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:28px 18px 60px}
+h1{font:800 clamp(2.2rem,7vw,3.6rem)/1 "Bricolage Grotesque",system-ui,sans-serif;letter-spacing:-.03em;margin:0 0 6px}
+.sub{color:var(--mute);margin:0 0 20px;max-width:52ch}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
+button{font:500 .92rem "DM Sans",sans-serif;color:var(--ink);background:var(--card);border:1.5px solid var(--line);border-radius:99px;padding:8px 16px;cursor:pointer}
+button:focus-visible,a:focus-visible{outline:3px solid var(--hot);outline-offset:2px}
+button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+ol{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+li{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;display:grid;grid-template-columns:1fr auto;gap:4px 14px;align-items:center;position:relative;overflow:hidden}
+li::before{content:"";position:absolute;left:0;top:0;bottom:0;width:calc(var(--heat)*1%);background:color-mix(in srgb,var(--hot) 9%,transparent)}
+li>*{position:relative}
+.t{font:800 1.12rem/1.25 "Bricolage Grotesque",system-ui,sans-serif;color:var(--ink);text-decoration:none}
+.t:hover{text-decoration:underline}
+.meta{color:var(--mute);font-size:.88rem;display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:2px}
+.src{display:inline-flex;align-items:center;gap:6px;font-weight:700}
+.dot{width:9px;height:9px;border-radius:50%;background:currentColor}
+.up{font:800 1.1rem "Bricolage Grotesque",sans-serif;color:var(--hot);text-align:right;white-space:nowrap}
+.msg{color:var(--mute);padding:20px 0}
+.foot{margin-top:26px;color:var(--mute);font-size:.88rem;border-top:1px solid var(--line);padding-top:14px}
+@media (max-width:480px){li{grid-template-columns:1fr}.up{text-align:left}}
+</style>
+</head>
+<body>
+<main>
+<h1>Pulso</h1>
+<p class="sub">Lo que se está volviendo viral en España, en un solo sitio. Ordenado por lo rápido que sube cada tendencia.</p>
+<div class="bar" id="bar" role="group" aria-label="Filtrar por fuente"></div>
+<ol id="list"></ol>
+<p class="msg" id="msg">Cargando tendencias…</p>
+<p class="foot" id="foot"></p>
+</main>
+<script>
+var SRC={yt:["YouTube","var(--yt)"],wk:["Wikipedia","var(--wk)"]};
+var cur="all",items=[],bar=document.getElementById("bar"),list=document.getElementById("list"),msg=document.getElementById("msg");
+function esc(s){return String(s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
+function chip(k,l){var b=document.createElement("button");b.textContent=l;b.setAttribute("aria-pressed",k===cur);b.onclick=function(){cur=k;render()};bar.appendChild(b)}
+function render(){
+ bar.innerHTML="";chip("all","Todo");for(var k in SRC)chip(k,SRC[k][0]);
+ var rows=items.filter(function(d){return cur==="all"||d.source===cur});
+ list.innerHTML=rows.map(function(d){var s=SRC[d.source]||["",""],u=/^https:\/\//.test(d.url)?d.url:"#";
+  return'<li style="--heat:'+Number(d.heat)+'"><div><a class="t" href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(d.title)+'</a><div class="meta"><span class="src" style="color:'+s[1]+'"><i class="dot"></i>'+s[0]+'</span><span>'+esc(d.meta)+'</span></div></div><div class="up">'+esc(d.label)+'</div></li>'}).join("");
+}
+fetch("data.json?"+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+ items=d.items||[];msg.hidden=true;
+ document.getElementById("foot").textContent="Última actualización: "+new Date(d.updated).toLocaleString("es-ES")+". Se actualiza solo cada pocas horas.";
+ render();
+}).catch(function(){msg.textContent="Todavía no hay datos. En GitHub, entra en la pestaña Actions y ejecuta «Actualizar tendencias».";render()});
+</script>
+</body>
+</html>
