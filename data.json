@@ -1,123 +1,243 @@
 {
- "updated": "2026-10-06T09:13:58.560738+00:00",
+ "updated": "2026-10-06T12:16:36.190514+00:00",
  "items": [
   {
    "title": "JAILER 2 - Official Trailer | Superstar Rajinikanth | Sun Pictures | Anirudh | Nelson",
    "source": "yt",
-   "meta": "Sun TV - 11.648.302 vistas",
-   "label": "561.503 vistas/h",
+   "meta": "Sun TV - 12.211.055 vistas",
+   "label": "513.318 vistas/h",
    "url": "https://www.youtube.com/watch?v=FW_PPcr1sPE",
    "heat": 100
   },
   {
+   "title": "Gianluca Prestianni",
+   "source": "wk",
+   "meta": "18.098 visitas en un día",
+   "label": "+2044 %",
+   "url": "https://es.wikipedia.org/wiki/Gianluca_Prestianni",
+   "heat": 100
+  },
+  {
+   "title": "Teresa Rodríguez",
+   "source": "wk",
+   "meta": "15.328 visitas en un día",
+   "label": "+1716 %",
+   "url": "https://es.wikipedia.org/wiki/Teresa_Rodr%C3%ADguez",
+   "heat": 84
+  },
+  {
+   "title": "Augusto Cury",
+   "source": "wk",
+   "meta": "13.456 visitas en un día",
+   "label": "+1494 %",
+   "url": "https://es.wikipedia.org/wiki/Augusto_Cury",
+   "heat": 73
+  },
+  {
+   "title": "Matías Soulé",
+   "source": "wk",
+   "meta": "11.517 visitas en un día",
+   "label": "+1265 %",
+   "url": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Soul%C3%A9",
+   "heat": 62
+  },
+  {
+   "title": "Santiago Tomás Castro",
+   "source": "wk",
+   "meta": "9.881 visitas en un día",
+   "label": "+1071 %",
+   "url": "https://es.wikipedia.org/wiki/Santiago_Tom%C3%A1s_Castro",
+   "heat": 52
+  },
+  {
+   "title": "Richard Feynman",
+   "source": "wk",
+   "meta": "9.758 visitas en un día",
+   "label": "+1056 %",
+   "url": "https://es.wikipedia.org/wiki/Richard_Feynman",
+   "heat": 52
+  },
+  {
+   "title": "Mariano Ozores",
+   "source": "wk",
+   "meta": "6.989 visitas en un día",
+   "label": "+728 %",
+   "url": "https://es.wikipedia.org/wiki/Mariano_Ozores",
+   "heat": 36
+  },
+  {
+   "title": "Elecciones generales de Brasil de 2022",
+   "source": "wk",
+   "meta": "15.998 visitas en un día",
+   "label": "+726 %",
+   "url": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Brasil_de_2022",
+   "heat": 36
+  },
+  {
+   "title": "Flávio Bolsonaro",
+   "source": "wk",
+   "meta": "37.107 visitas en un día",
+   "label": "+685 %",
+   "url": "https://es.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+   "heat": 34
+  },
+  {
    "title": "El Mejor Among Us de la historia | Lamine, Auron, Peereira, Olmo, Fermín...",
    "source": "yt",
-   "meta": "Ibai - 3.177.416 vistas",
-   "label": "196.763 vistas/h",
+   "meta": "Ibai - 3.272.160 vistas",
+   "label": "170.495 vistas/h",
    "url": "https://www.youtube.com/watch?v=tTUE0DAV9XI",
-   "heat": 35
+   "heat": 33
+  },
+  {
+   "title": "Álex Sola",
+   "source": "wk",
+   "meta": "6.370 visitas en un día",
+   "label": "+655 %",
+   "url": "https://es.wikipedia.org/wiki/%C3%81lex_Sola",
+   "heat": 32
+  },
+  {
+   "title": "Soledad Núñez Méndez",
+   "source": "wk",
+   "meta": "6.227 visitas en un día",
+   "label": "+638 %",
+   "url": "https://es.wikipedia.org/wiki/Soledad_N%C3%BA%C3%B1ez_M%C3%A9ndez",
+   "heat": 31
+  },
+  {
+   "title": "José Luis Ozores",
+   "source": "wk",
+   "meta": "6.155 visitas en un día",
+   "label": "+629 %",
+   "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Ozores",
+   "heat": 31
+  },
+  {
+   "title": "Agustín Giay",
+   "source": "wk",
+   "meta": "6.074 visitas en un día",
+   "label": "+620 %",
+   "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Giay",
+   "heat": 30
+  },
+  {
+   "title": "Renan Santos",
+   "source": "wk",
+   "meta": "5.975 visitas en un día",
+   "label": "+608 %",
+   "url": "https://es.wikipedia.org/wiki/Renan_Santos",
+   "heat": 30
+  },
+  {
+   "title": "Claudia Pina",
+   "source": "wk",
+   "meta": "5.630 visitas en un día",
+   "label": "+567 %",
+   "url": "https://es.wikipedia.org/wiki/Claudia_Pina",
+   "heat": 28
   },
   {
    "title": "AMONG US CON LA SELECCIÓN ESPAÑOLA DE FUTBOL 🇪🇸",
    "source": "yt",
-   "meta": "Auron - 1.244.051 vistas",
-   "label": "78.806 vistas/h",
+   "meta": "Auron - 1.300.833 vistas",
+   "label": "69.083 vistas/h",
    "url": "https://www.youtube.com/watch?v=7BjcmY8Bdaw",
-   "heat": 14
+   "heat": 13
   },
   {
    "title": "Metieron MEGA-RAMPAS en Skate 4...",
    "source": "yt",
-   "meta": "Rubius Z - 2.516.349 vistas",
-   "label": "66.753 vistas/h",
+   "meta": "Rubius Z - 2.548.034 vistas",
+   "label": "62.543 vistas/h",
    "url": "https://www.youtube.com/watch?v=CKU_WaDiglg",
    "heat": 12
   },
   {
    "title": "Romeo Santos, Prince Royce, Dalvin La Melodia - Menor (Official Video)",
    "source": "yt",
-   "meta": "Romeo Santos - 4.940.061 vistas",
-   "label": "46.065 vistas/h",
+   "meta": "Romeo Santos - 4.975.580 vistas",
+   "label": "45.116 vistas/h",
    "url": "https://www.youtube.com/watch?v=PVVKKwYeEQs",
-   "heat": 8
+   "heat": 9
   },
   {
    "title": "ORGANICÉ el MAYOR AMONG US de LA HISTORIA",
    "source": "yt",
-   "meta": "Peereira7 - 1.267.964 vistas",
-   "label": "40.265 vistas/h",
+   "meta": "Peereira7 - 1.275.405 vistas",
+   "label": "36.932 vistas/h",
    "url": "https://www.youtube.com/watch?v=kdIXEnAo9o4",
    "heat": 7
   },
   {
    "title": "Season 5: A Grim Doctrine Launch Trailer | Overwatch",
    "source": "yt",
-   "meta": "PlayOverwatch - 521.184 vistas",
-   "label": "32.119 vistas/h",
+   "meta": "PlayOverwatch - 532.138 vistas",
+   "label": "27.614 vistas/h",
    "url": "https://www.youtube.com/watch?v=Ih6DVdyQn3I",
-   "heat": 6
-  },
-  {
-   "title": "NO PUEDO PARAR DE TOCARLO 🟥 - Click the Button [Completo]",
-   "source": "yt",
-   "meta": "IlloJuan - 584.550 vistas",
-   "label": "29.254 vistas/h",
-   "url": "https://www.youtube.com/watch?v=GEV0BnQBNYA",
    "heat": 5
   },
   {
    "title": "KAROL G, Judeline, rusowsky - BbY WOW | Letra",
    "source": "yt",
-   "meta": "sunday - 2.115.653 vistas",
-   "label": "24.823 vistas/h",
+   "meta": "sunday - 2.128.774 vistas",
+   "label": "24.115 vistas/h",
    "url": "https://www.youtube.com/watch?v=O9rLu25w95s",
-   "heat": 4
+   "heat": 5
+  },
+  {
+   "title": "NO PUEDO PARAR DE TOCARLO 🟥 - Click the Button [Completo]",
+   "source": "yt",
+   "meta": "IlloJuan - 609.537 vistas",
+   "label": "26.472 vistas/h",
+   "url": "https://www.youtube.com/watch?v=GEV0BnQBNYA",
+   "heat": 5
   },
   {
    "title": "YO QUIERO RMX Hades66, Arcángel, Myke Towers, Luar La L- (Video Oficial)",
    "source": "yt",
-   "meta": "Hades 66 - 2.185.726 vistas",
-   "label": "20.383 vistas/h",
+   "meta": "Hades 66 - 2.194.110 vistas",
+   "label": "19.896 vistas/h",
    "url": "https://www.youtube.com/watch?v=jN4XBExBOCM",
    "heat": 4
   },
   {
-   "title": "Clarent & Quevedo - Jukiar (Video Oficial)",
-   "source": "yt",
-   "meta": "Clarent - 748.876 vistas",
-   "label": "8.997 vistas/h",
-   "url": "https://www.youtube.com/watch?v=D6VOtKyA6og",
-   "heat": 2
-  },
-  {
    "title": "Série - Jeux de dames - Episode 13 - Bande annonce",
    "source": "yt",
-   "meta": "Marodi TV Sénégal - 644.645 vistas",
-   "label": "13.648 vistas/h",
+   "meta": "Marodi TV Sénégal - 649.179 vistas",
+   "label": "12.912 vistas/h",
    "url": "https://www.youtube.com/watch?v=SxjNj7oDVPc",
-   "heat": 2
+   "heat": 3
   },
   {
    "title": "Chucky73 x TOPBOY x El Americano 4KT - MAS BONITO (Official Video)",
    "source": "yt",
-   "meta": "Chucky73 - 1.226.428 vistas",
-   "label": "13.900 vistas/h",
+   "meta": "Chucky73 - 1.235.854 vistas",
+   "label": "13.540 vistas/h",
    "url": "https://www.youtube.com/watch?v=mmNSUqijbqA",
+   "heat": 3
+  },
+  {
+   "title": "Clarent & Quevedo - Jukiar (Video Oficial)",
+   "source": "yt",
+   "meta": "Clarent - 760.282 vistas",
+   "label": "8.812 vistas/h",
+   "url": "https://www.youtube.com/watch?v=D6VOtKyA6og",
    "heat": 2
   },
   {
    "title": "💥¿Cuando sale el NUEVO TRÁILER de DOOMSDAY?💥 ¿Steve volverá a tener su TRAJE? ¿Hype por Visionquest?",
    "source": "yt",
-   "meta": "Strip Marvel I Marvel, DC & Superhéroes - 50.608 vistas",
-   "label": "1.259 vistas/h",
+   "meta": "Strip Marvel I Marvel, DC & Superhéroes - 50.981 vistas",
+   "label": "1.179 vistas/h",
    "url": "https://www.youtube.com/watch?v=tslhddfabms",
    "heat": 0
   },
   {
    "title": "VisionQuest | Tráiler Oficial | Disney+ España (en castellano)",
    "source": "yt",
-   "meta": "Disney+ España - 109.399 vistas",
-   "label": "1.157 vistas/h",
+   "meta": "Disney+ España - 109.875 vistas",
+   "label": "1.126 vistas/h",
    "url": "https://www.youtube.com/watch?v=deL0TsfadkI",
    "heat": 0
   }
