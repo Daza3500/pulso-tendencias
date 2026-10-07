@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-07T00:20:35.596182+00:00",
+ "updated": "2026-10-07T03:13:49.056129+00:00",
  "items": [
   {
    "title": "El Mejor Among Us de la historia | Lamine, Auron, Peereira, Olmo, Fermín...",
    "source": "yt",
-   "meta": "Ibai - 4.326.840 vistas",
-   "label": "138.420 vistas/h",
+   "meta": "Ibai - 4.500.254 vistas",
+   "label": "131.795 vistas/h",
    "url": "https://www.youtube.com/watch?v=tTUE0DAV9XI",
    "heat": 100
   },
@@ -36,10 +36,10 @@
   {
    "title": "Lo del AION 2 es SALVAJE",
    "source": "yt",
-   "meta": "Rubius Z - 736.399 vistas",
-   "label": "88.458 vistas/h",
+   "meta": "Rubius Z - 917.823 vistas",
+   "label": "81.861 vistas/h",
    "url": "https://www.youtube.com/watch?v=tXRYJKzTJbA",
-   "heat": 64
+   "heat": 62
   },
   {
    "title": "Maribel Verdú",
@@ -60,8 +60,8 @@
   {
    "title": "AMONG US CON LA SELECCIÓN ESPAÑOLA DE FUTBOL 🇪🇸",
    "source": "yt",
-   "meta": "Auron - 1.823.735 vistas",
-   "label": "59.027 vistas/h",
+   "meta": "Auron - 1.894.341 vistas",
+   "label": "56.072 vistas/h",
    "url": "https://www.youtube.com/watch?v=7BjcmY8Bdaw",
    "heat": 43
   },
@@ -82,28 +82,12 @@
    "heat": 41
   },
   {
-   "title": "Romeo Santos, Prince Royce, Dalvin La Melodia - Menor (Official Video)",
-   "source": "yt",
-   "meta": "Romeo Santos - 5.724.370 vistas",
-   "label": "46.786 vistas/h",
-   "url": "https://www.youtube.com/watch?v=PVVKKwYeEQs",
-   "heat": 34
-  },
-  {
    "title": "Carmen Maura",
    "source": "wk",
    "meta": "9.208 visitas en un día",
    "label": "+854 %",
    "url": "https://es.wikipedia.org/wiki/Carmen_Maura",
    "heat": 33
-  },
-  {
-   "title": "Frozen Trail Launch Trailer | ARC Raiders",
-   "source": "yt",
-   "meta": "ARC Raiders - 341.886 vistas",
-   "label": "41.028 vistas/h",
-   "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
-   "heat": 30
   },
   {
    "title": "Elecciones generales de España",
@@ -122,12 +106,12 @@
    "heat": 28
   },
   {
-   "title": "True Damage: Know My Name | Skins Trailer - League of Legends",
+   "title": "Frozen Trail Launch Trailer | ARC Raiders",
    "source": "yt",
-   "meta": "League of Legends - 294.982 vistas",
-   "label": "35.385 vistas/h",
-   "url": "https://www.youtube.com/watch?v=l-AeX7nZIm0",
-   "heat": 26
+   "meta": "ARC Raiders - 400.350 vistas",
+   "label": "35.682 vistas/h",
+   "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
+   "heat": 27
   },
   {
    "title": "Alberto Núñez Feijóo",
@@ -146,11 +130,11 @@
    "heat": 23
   },
   {
-   "title": "Honest Trailers | Master and Commander: The Far Side of the World",
+   "title": "True Damage: Know My Name | Skins Trailer - League of Legends",
    "source": "yt",
-   "meta": "Screen Junkies - 221.372 vistas",
-   "label": "30.179 vistas/h",
-   "url": "https://www.youtube.com/watch?v=cPjW_ESwKXU",
+   "meta": "League of Legends - 321.376 vistas",
+   "label": "28.634 vistas/h",
+   "url": "https://www.youtube.com/watch?v=l-AeX7nZIm0",
    "heat": 22
   },
   {
@@ -160,6 +144,14 @@
    "label": "+561 %",
    "url": "https://es.wikipedia.org/wiki/La_casa_de_los_famosos_M%C3%A9xico",
    "heat": 22
+  },
+  {
+   "title": "Honest Trailers | Master and Commander: The Far Side of the World",
+   "source": "yt",
+   "meta": "Screen Junkies - 280.837 vistas",
+   "label": "27.473 vistas/h",
+   "url": "https://www.youtube.com/watch?v=cPjW_ESwKXU",
+   "heat": 21
   },
   {
    "title": "Santiago Abascal",
@@ -180,64 +172,72 @@
   {
    "title": "NO PUEDO PARAR DE TOCARLO 🟥 - Click the Button [Completo]",
    "source": "yt",
-   "meta": "IlloJuan - 757.503 vistas",
-   "label": "21.586 vistas/h",
+   "meta": "IlloJuan - 778.305 vistas",
+   "label": "20.493 vistas/h",
    "url": "https://www.youtube.com/watch?v=GEV0BnQBNYA",
    "heat": 16
   },
   {
    "title": "Season 5: A Grim Doctrine Launch Trailer | Overwatch",
    "source": "yt",
-   "meta": "PlayOverwatch - 586.530 vistas",
-   "label": "18.717 vistas/h",
+   "meta": "PlayOverwatch - 591.364 vistas",
+   "label": "17.279 vistas/h",
    "url": "https://www.youtube.com/watch?v=Ih6DVdyQn3I",
-   "heat": 14
+   "heat": 13
+  },
+  {
+   "title": "Conep, YOVNGCHIMI, DJ Luian - Kirby (Official Video)",
+   "source": "yt",
+   "meta": "ConepVEVO - 90.473 vistas",
+   "label": "14.545 vistas/h",
+   "url": "https://www.youtube.com/watch?v=_DUXeWadqDo",
+   "heat": 11
   },
   {
    "title": "Pokémon Super EX Ep.18 - REZAR AL LOCKE. NADA MÁS QUE AÑADIR.",
    "source": "yt",
-   "meta": "Folagor03 - 145.723 vistas",
-   "label": "14.195 vistas/h",
+   "meta": "Folagor03 - 160.295 vistas",
+   "label": "12.187 vistas/h",
    "url": "https://www.youtube.com/watch?v=9xkcmHY-wBE",
-   "heat": 10
+   "heat": 9
   },
   {
    "title": "VENGADORES : DOOMSDAY TV Spot Español (2026)",
    "source": "yt",
-   "meta": "ONE Media Español - 161.337 vistas",
-   "label": "11.848 vistas/h",
+   "meta": "ONE Media Español - 178.428 vistas",
+   "label": "10.811 vistas/h",
    "url": "https://www.youtube.com/watch?v=y1nQ3eo9j9Y",
-   "heat": 9
+   "heat": 8
   },
   {
    "title": "Clarent & Quevedo - Jukiar (Video Oficial)",
    "source": "yt",
-   "meta": "Clarent - 887.788 vistas",
-   "label": "9.027 vistas/h",
+   "meta": "Clarent - 904.371 vistas",
+   "label": "8.934 vistas/h",
    "url": "https://www.youtube.com/watch?v=D6VOtKyA6og",
    "heat": 7
   },
   {
-   "title": "Jarfaiter - GTA - (Official Video) #Arcade",
-   "source": "yt",
-   "meta": "JARFAITER - 15.556 vistas",
-   "label": "2.912 vistas/h",
-   "url": "https://www.youtube.com/watch?v=X1dkDXoeLws",
-   "heat": 2
-  },
-  {
    "title": "Romeo Santos - La Diabla | Letra",
    "source": "yt",
-   "meta": "Malaver Lyrics - 499.819 vistas",
-   "label": "3.392 vistas/h",
+   "meta": "Malaver Lyrics - 553.469 vistas",
+   "label": "3.684 vistas/h",
    "url": "https://www.youtube.com/watch?v=jWrj0UIojhc",
+   "heat": 3
+  },
+  {
+   "title": "Jarfaiter - GTA - (Official Video) #Arcade",
+   "source": "yt",
+   "meta": "JARFAITER - 18.023 vistas",
+   "label": "2.190 vistas/h",
+   "url": "https://www.youtube.com/watch?v=X1dkDXoeLws",
    "heat": 2
   },
   {
    "title": "Carlos Vives - La Gota Fría | Letra",
    "source": "yt",
-   "meta": "sunday - 157.013 vistas",
-   "label": "1.058 vistas/h",
+   "meta": "sunday - 181.444 vistas",
+   "label": "1.199 vistas/h",
    "url": "https://www.youtube.com/watch?v=riEbYFMcWXU",
    "heat": 1
   }
