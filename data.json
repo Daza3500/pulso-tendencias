@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-08T06:18:47.042620+00:00",
+ "updated": "2026-10-08T09:15:04.487043+00:00",
  "items": [
   {
    "title": "Metí Minecraft dentro de GTA 5...",
    "source": "yt",
-   "meta": "Rubius Z - 2.107.064 vistas",
-   "label": "156.944 vistas/h",
+   "meta": "Rubius Z - 2.293.565 vistas",
+   "label": "140.162 vistas/h",
    "url": "https://www.youtube.com/watch?v=uk4QaaGlX1k",
    "heat": 100
   },
@@ -20,18 +20,18 @@
   {
    "title": "El Mejor Among Us de la historia | Lamine, Auron, Peereira, Olmo, Fermín...",
    "source": "yt",
-   "meta": "Ibai - 5.528.431 vistas",
-   "label": "90.291 vistas/h",
+   "meta": "Ibai - 5.577.701 vistas",
+   "label": "86.925 vistas/h",
    "url": "https://www.youtube.com/watch?v=tTUE0DAV9XI",
-   "heat": 58
+   "heat": 62
   },
   {
    "title": "Dragon Ball Super: Beerus | Official Trailer | Crunchyroll",
    "source": "yt",
-   "meta": "Crunchyroll - 2.004.167 vistas",
-   "label": "63.015 vistas/h",
+   "meta": "Crunchyroll - 2.093.048 vistas",
+   "label": "60.244 vistas/h",
    "url": "https://www.youtube.com/watch?v=W9W5CLUGjbU",
-   "heat": 40
+   "heat": 43
   },
   {
    "title": "Mikel Merino",
@@ -44,9 +44,17 @@
   {
    "title": "AMONG US CON LA SELECCIÓN ESPAÑOLA DE FUTBOL 🇪🇸",
    "source": "yt",
-   "meta": "Auron - 2.395.857 vistas",
-   "label": "39.362 vistas/h",
+   "meta": "Auron - 2.423.062 vistas",
+   "label": "37.976 vistas/h",
    "url": "https://www.youtube.com/watch?v=7BjcmY8Bdaw",
+   "heat": 27
+  },
+  {
+   "title": "Samira and Sett Gameplay Reveal Trailer",
+   "source": "yt",
+   "meta": "2XKO - 306.241 vistas",
+   "label": "34.936 vistas/h",
+   "url": "https://www.youtube.com/watch?v=gLKvt7Mit-U",
    "heat": 25
   },
   {
@@ -60,8 +68,8 @@
   {
    "title": "MARVEL Tōkon: Fighting Souls | Phoenix Cyclops Gameplay Trailer",
    "source": "yt",
-   "meta": "MARVEL Tokon: Fighting Souls - 458.812 vistas",
-   "label": "34.483 vistas/h",
+   "meta": "MARVEL Tokon: Fighting Souls - 499.581 vistas",
+   "label": "30.755 vistas/h",
    "url": "https://www.youtube.com/watch?v=3y9_kwKo3Fs",
    "heat": 22
   },
@@ -122,18 +130,10 @@
    "heat": 14
   },
   {
-   "title": "Frozen Trail Launch Trailer | ARC Raiders",
-   "source": "yt",
-   "meta": "ARC Raiders - 697.951 vistas",
-   "label": "18.221 vistas/h",
-   "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
-   "heat": 12
-  },
-  {
    "title": "LAS PELEAS MÁS SURREALISTAS 🦍 - How Many Dudes?",
    "source": "yt",
-   "meta": "IlloJuan - 695.933 vistas",
-   "label": "16.950 vistas/h",
+   "meta": "IlloJuan - 707.718 vistas",
+   "label": "16.085 vistas/h",
    "url": "https://www.youtube.com/watch?v=oN4eE_Fn89s",
    "heat": 11
   },
@@ -162,28 +162,28 @@
    "heat": 11
   },
   {
+   "title": "Conep, YOVNGCHIMI, DJ Luian - Kirby (Official Video)",
+   "source": "yt",
+   "meta": "ConepVEVO - 432.086 vistas",
+   "label": "11.922 vistas/h",
+   "url": "https://www.youtube.com/watch?v=_DUXeWadqDo",
+   "heat": 9
+  },
+  {
+   "title": "GANÉ el TORNEO MÁS LOCO de ROCKET LEAGUE",
+   "source": "yt",
+   "meta": "Peereira7 - 432.301 vistas",
+   "label": "11.999 vistas/h",
+   "url": "https://www.youtube.com/watch?v=SsW0rVwVM1M",
+   "heat": 9
+  },
+  {
    "title": "Ana Duato",
    "source": "wk",
    "meta": "5.154 visitas en un día",
    "label": "+412 %",
    "url": "https://es.wikipedia.org/wiki/Ana_Duato",
    "heat": 9
-  },
-  {
-   "title": "Conep, YOVNGCHIMI, DJ Luian - Kirby (Official Video)",
-   "source": "yt",
-   "meta": "ConepVEVO - 418.603 vistas",
-   "label": "12.569 vistas/h",
-   "url": "https://www.youtube.com/watch?v=_DUXeWadqDo",
-   "heat": 8
-  },
-  {
-   "title": "GANÉ el TORNEO MÁS LOCO de ROCKET LEAGUE",
-   "source": "yt",
-   "meta": "Peereira7 - 423.997 vistas",
-   "label": "12.813 vistas/h",
-   "url": "https://www.youtube.com/watch?v=SsW0rVwVM1M",
-   "heat": 8
   },
   {
    "title": "Dani Olmo",
@@ -196,48 +196,48 @@
   {
    "title": "Clarent & Quevedo - Jukiar (Video Oficial)",
    "source": "yt",
-   "meta": "Clarent - 1.104.617 vistas",
-   "label": "8.608 vistas/h",
+   "meta": "Clarent - 1.115.754 vistas",
+   "label": "8.501 vistas/h",
    "url": "https://www.youtube.com/watch?v=D6VOtKyA6og",
-   "heat": 5
+   "heat": 6
   },
   {
    "title": "VENGADORES : DOOMSDAY TV Spot Español (2026)",
    "source": "yt",
-   "meta": "ONE Media Español - 231.391 vistas",
-   "label": "5.308 vistas/h",
+   "meta": "ONE Media Español - 232.786 vistas",
+   "label": "5.003 vistas/h",
    "url": "https://www.youtube.com/watch?v=y1nQ3eo9j9Y",
-   "heat": 3
+   "heat": 4
   },
   {
    "title": "Bonito, Bonito",
    "source": "yt",
-   "meta": "Thiago Navarro Music - Topic - 115.856 vistas",
-   "label": "5.036 vistas/h",
+   "meta": "Thiago Navarro Music - Topic - 120.885 vistas",
+   "label": "4.659 vistas/h",
    "url": "https://www.youtube.com/watch?v=lN18hdk7dYA",
    "heat": 3
   },
   {
    "title": "Guitarricadelafuente - La Nieve (live in Madrid 2026)",
    "source": "yt",
-   "meta": "Guitarricadelafuente - 85.278 vistas",
-   "label": "2.567 vistas/h",
+   "meta": "Guitarricadelafuente - 87.951 vistas",
+   "label": "2.432 vistas/h",
    "url": "https://www.youtube.com/watch?v=wbU0tnlOTM4",
    "heat": 2
   },
   {
    "title": "VENGADORES: DOOMSDAY TV Spot Español (2026) Robert Downey Jr., Chris Hemsworth",
    "source": "yt",
-   "meta": "Trailers In Spanish - 18.610 vistas",
-   "label": "860 vistas/h",
+   "meta": "Trailers In Spanish - 19.652 vistas",
+   "label": "799 vistas/h",
    "url": "https://www.youtube.com/watch?v=4axFZYPbYlw",
    "heat": 1
   },
   {
    "title": "Jarfaiter - GTA - (Official Video) #Arcade",
    "source": "yt",
-   "meta": "JARFAITER - 45.623 vistas",
-   "label": "1.292 vistas/h",
+   "meta": "JARFAITER - 46.702 vistas",
+   "label": "1.221 vistas/h",
    "url": "https://www.youtube.com/watch?v=X1dkDXoeLws",
    "heat": 1
   }
