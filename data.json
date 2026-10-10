@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-10T03:12:54.553408+00:00",
+ "updated": "2026-10-10T06:16:33.615428+00:00",
  "items": [
   {
-   "title": "Know My Name ft. True Damage (Official Music Video) | League of Legends Worlds 2026 Anthem",
+   "title": "Anuel AA - Vuelve (Video Oficial)",
    "source": "yt",
-   "meta": "League of Legends - 6.110.154 vistas",
-   "label": "232.363 vistas/h",
-   "url": "https://www.youtube.com/watch?v=mlFxxNsExJc",
+   "meta": "Anuel AA - 1.456.385 vistas",
+   "label": "130.024 vistas/h",
+   "url": "https://www.youtube.com/watch?v=3juuih0WdH8",
    "heat": 100
   },
   {
@@ -18,12 +18,28 @@
    "heat": 100
   },
   {
-   "title": "Anuel AA - Vuelve (Video Oficial)",
+   "title": "The Guy She Was Interested In Wasn't a Guy At All | Official Trailer | Crunchyroll",
    "source": "yt",
-   "meta": "Anuel AA - 1.139.626 vistas",
-   "label": "140.002 vistas/h",
-   "url": "https://www.youtube.com/watch?v=3juuih0WdH8",
-   "heat": 60
+   "meta": "Crunchyroll - 3.404.016 vistas",
+   "label": "99.610 vistas/h",
+   "url": "https://www.youtube.com/watch?v=2KPFnP1othM",
+   "heat": 77
+  },
+  {
+   "title": "Star Wars Sacó Un Juego de Carreras...",
+   "source": "yt",
+   "meta": "Rubius Z - 1.149.336 vistas",
+   "label": "88.372 vistas/h",
+   "url": "https://www.youtube.com/watch?v=YWlb1OMbmOQ",
+   "heat": 68
+  },
+  {
+   "title": "DADDY YANKEE-  BOTZ (Bésame OTra veZ) Official Video",
+   "source": "yt",
+   "meta": "Daddy Yankee - 2.204.272 vistas",
+   "label": "67.989 vistas/h",
+   "url": "https://www.youtube.com/watch?v=ZfdwnCz-kiA",
+   "heat": 52
   },
   {
    "title": "Xosé Manuel Beiras",
@@ -34,28 +50,12 @@
    "heat": 52
   },
   {
-   "title": "The Guy She Was Interested In Wasn't a Guy At All | Official Trailer | Crunchyroll",
+   "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
    "source": "yt",
-   "meta": "Crunchyroll - 3.152.973 vistas",
-   "label": "101.340 vistas/h",
-   "url": "https://www.youtube.com/watch?v=2KPFnP1othM",
-   "heat": 44
-  },
-  {
-   "title": "Star Wars Sacó Un Juego de Carreras...",
-   "source": "yt",
-   "meta": "Rubius Z - 953.168 vistas",
-   "label": "95.846 vistas/h",
-   "url": "https://www.youtube.com/watch?v=YWlb1OMbmOQ",
-   "heat": 41
-  },
-  {
-   "title": "DADDY YANKEE-  BOTZ (Bésame Otra VeZ) - OFFICIAL VIDEO",
-   "source": "yt",
-   "meta": "Daddy Yankee - 1.982.974 vistas",
-   "label": "67.539 vistas/h",
-   "url": "https://www.youtube.com/watch?v=ZfdwnCz-kiA",
-   "heat": 29
+   "meta": "Bulin 47 Oficial - 2.111.921 vistas",
+   "label": "55.180 vistas/h",
+   "url": "https://www.youtube.com/watch?v=VUIgT-E4IS0",
+   "heat": 42
   },
   {
    "title": "India Martínez",
@@ -66,20 +66,12 @@
    "heat": 29
   },
   {
-   "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
-   "source": "yt",
-   "meta": "Bulin 47 Oficial - 1.989.877 vistas",
-   "label": "56.510 vistas/h",
-   "url": "https://www.youtube.com/watch?v=VUIgT-E4IS0",
-   "heat": 24
-  },
-  {
    "title": "NUEVO EVENTO FUTURE STARS Y CLUBES PRO ! FC 27 - DjMaRiiO",
    "source": "yt",
-   "meta": "DjMaRiiO - 226.534 vistas",
-   "label": "49.332 vistas/h",
+   "meta": "DjMaRiiO - 231.704 vistas",
+   "label": "30.277 vistas/h",
    "url": "https://www.youtube.com/watch?v=B3a6UiUt3j4",
-   "heat": 21
+   "heat": 23
   },
   {
    "title": "Luis Zahera",
@@ -114,6 +106,38 @@
    "heat": 14
   },
   {
+   "title": "Pokémon Super EX Ep.21 - EL HUEVO DE LA MUERTE. NO HAY MÁS.",
+   "source": "yt",
+   "meta": "Folagor03 - 171.694 vistas",
+   "label": "10.555 vistas/h",
+   "url": "https://www.youtube.com/watch?v=XMmwJzAgAyc",
+   "heat": 8
+  },
+  {
+   "title": "LA ALIANZA ENTRE MAFIAS 🚤 - Grand Theft Auto: San Andreas 2026 #4",
+   "source": "yt",
+   "meta": "IlloJuan - 439.297 vistas",
+   "label": "10.709 vistas/h",
+   "url": "https://www.youtube.com/watch?v=7SpPoZLhCAo",
+   "heat": 8
+  },
+  {
+   "title": "Vengadores: Doomsday | Anuncio: \"Cruel\" | 17 de diciembre solo en cines",
+   "source": "yt",
+   "meta": "Marvel España - 163.492 vistas",
+   "label": "9.713 vistas/h",
+   "url": "https://www.youtube.com/watch?v=UTtAFfttWVs",
+   "heat": 7
+  },
+  {
+   "title": "PEEREIRA PRUEBA MARIO KART por PRIMERA VEZ",
+   "source": "yt",
+   "meta": "Peereira7 - 279.007 vistas",
+   "label": "7.911 vistas/h",
+   "url": "https://www.youtube.com/watch?v=BYMl4oU4Zuc",
+   "heat": 6
+  },
+  {
    "title": "Beatriz Talegón",
    "source": "wk",
    "meta": "16.679 visitas en un día",
@@ -122,19 +146,11 @@
    "heat": 6
   },
   {
-   "title": "Vengadores: Doomsday | Anuncio: \"Cruel\" | 17 de diciembre solo en cines",
+   "title": "Judeline - La Falda (Official Video)",
    "source": "yt",
-   "meta": "Marvel España - 156.264 vistas",
-   "label": "11.348 vistas/h",
-   "url": "https://www.youtube.com/watch?v=UTtAFfttWVs",
-   "heat": 5
-  },
-  {
-   "title": "Pokémon Super EX Ep.21 - EL HUEVO DE LA MUERTE. NO HAY MÁS.",
-   "source": "yt",
-   "meta": "Folagor03 - 161.982 vistas",
-   "label": "12.266 vistas/h",
-   "url": "https://www.youtube.com/watch?v=XMmwJzAgAyc",
+   "meta": "JudelineVEVO - 219.588 vistas",
+   "label": "6.803 vistas/h",
+   "url": "https://www.youtube.com/watch?v=7L6oiqd91qE",
    "heat": 5
   },
   {
@@ -146,28 +162,12 @@
    "heat": 5
   },
   {
-   "title": "PEEREIRA PRUEBA MARIO KART por PRIMERA VEZ",
-   "source": "yt",
-   "meta": "Peereira7 - 275.593 vistas",
-   "label": "8.557 vistas/h",
-   "url": "https://www.youtube.com/watch?v=BYMl4oU4Zuc",
-   "heat": 4
-  },
-  {
    "title": "Aday Mara",
    "source": "wk",
    "meta": "5.271 visitas en un día",
    "label": "+243 %",
    "url": "https://es.wikipedia.org/wiki/Aday_Mara",
    "heat": 4
-  },
-  {
-   "title": "Judeline - La Falda (Official Video)",
-   "source": "yt",
-   "meta": "JudelineVEVO - 211.641 vistas",
-   "label": "7.244 vistas/h",
-   "url": "https://www.youtube.com/watch?v=7L6oiqd91qE",
-   "heat": 3
   },
   {
    "title": "8 de octubre",
@@ -178,6 +178,22 @@
    "heat": 3
   },
   {
+   "title": "Apocalipsis Z: Nuevo Mundo | Tráiler Oficial",
+   "source": "yt",
+   "meta": "Amazon Prime Video España - 90.130 vistas",
+   "label": "2.251 vistas/h",
+   "url": "https://www.youtube.com/watch?v=mOSlem4qjGA",
+   "heat": 2
+  },
+  {
+   "title": "RETRICA - Lucho RK (Video oficial)",
+   "source": "yt",
+   "meta": "Lucho RK - 74.970 vistas",
+   "label": "2.340 vistas/h",
+   "url": "https://www.youtube.com/watch?v=B1-YKd0_BH4",
+   "heat": 2
+  },
+  {
    "title": "Shakira",
    "source": "wk",
    "meta": "9.194 visitas en un día",
@@ -186,26 +202,10 @@
    "heat": 2
   },
   {
-   "title": "Apocalipsis Z: Nuevo Mundo | Tráiler Oficial",
-   "source": "yt",
-   "meta": "Amazon Prime Video España - 86.764 vistas",
-   "label": "2.347 vistas/h",
-   "url": "https://www.youtube.com/watch?v=mOSlem4qjGA",
-   "heat": 1
-  },
-  {
-   "title": "RETRICA - Lucho RK (Video oficial)",
-   "source": "yt",
-   "meta": "Lucho RK - 73.633 vistas",
-   "label": "2.541 vistas/h",
-   "url": "https://www.youtube.com/watch?v=B1-YKd0_BH4",
-   "heat": 1
-  },
-  {
    "title": "ALI G: WHO IZ I? Tráiler Oficial Español Latino (2026) Amazon MGM",
    "source": "yt",
-   "meta": "KinoCheck Español - 47.025 vistas",
-   "label": "1.245 vistas/h",
+   "meta": "KinoCheck Español - 48.188 vistas",
+   "label": "1.180 vistas/h",
    "url": "https://www.youtube.com/watch?v=0bw9HnZvhF0",
    "heat": 1
   },
@@ -236,8 +236,8 @@
   {
    "title": "EL EXORCISTA: MÁRTIRES - Tráiler Oficial (Universal Pictures) HD",
    "source": "yt",
-   "meta": "Universal Spain - 2.499 vistas",
-   "label": "591 vistas/h",
+   "meta": "Universal Spain - 4.292 vistas",
+   "label": "589 vistas/h",
    "url": "https://www.youtube.com/watch?v=aIJwkkfJzCc",
    "heat": 0
   }
