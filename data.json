@@ -1,124 +1,244 @@
 {
- "updated": "2026-10-12T09:16:38.312281+00:00",
+ "updated": "2026-10-12T12:24:55.080930+00:00",
  "items": [
   {
    "title": "$10,000 Every Day You Survive In Minecraft",
    "source": "yt",
-   "meta": "MrBeast Gaming - 29.851.796 vistas",
-   "label": "723.211 vistas/h",
+   "meta": "MrBeast Gaming - 30.745.040 vistas",
+   "label": "692.228 vistas/h",
    "url": "https://www.youtube.com/watch?v=h8VE9_aHd94",
    "heat": 100
   },
   {
+   "title": "Miriam González Durántez",
+   "source": "wk",
+   "meta": "26.010 visitas en un día",
+   "label": "+2525 %",
+   "url": "https://es.wikipedia.org/wiki/Miriam_Gonz%C3%A1lez_Dur%C3%A1ntez",
+   "heat": 100
+  },
+  {
+   "title": "Nick Clegg",
+   "source": "wk",
+   "meta": "9.950 visitas en un día",
+   "label": "+1194 %",
+   "url": "https://es.wikipedia.org/wiki/Nick_Clegg",
+   "heat": 47
+  },
+  {
+   "title": "La Joaqui",
+   "source": "wk",
+   "meta": "9.520 visitas en un día",
+   "label": "+1138 %",
+   "url": "https://es.wikipedia.org/wiki/La_Joaqui",
+   "heat": 45
+  },
+  {
+   "title": "Raúl Martín Presa",
+   "source": "wk",
+   "meta": "9.337 visitas en un día",
+   "label": "+1114 %",
+   "url": "https://es.wikipedia.org/wiki/Ra%C3%BAl_Mart%C3%ADn_Presa",
+   "heat": 44
+  },
+  {
+   "title": "Mari Carmen García Vela",
+   "source": "wk",
+   "meta": "7.062 visitas en un día",
+   "label": "+818 %",
+   "url": "https://es.wikipedia.org/wiki/Mari_Carmen_Garc%C3%ADa_Vela",
+   "heat": 32
+  },
+  {
+   "title": "Yan Diomande",
+   "source": "wk",
+   "meta": "6.040 visitas en un día",
+   "label": "+685 %",
+   "url": "https://es.wikipedia.org/wiki/Yan_Diomande",
+   "heat": 27
+  },
+  {
+   "title": "Sandra Barneda",
+   "source": "wk",
+   "meta": "5.700 visitas en un día",
+   "label": "+641 %",
+   "url": "https://es.wikipedia.org/wiki/Sandra_Barneda",
+   "heat": 25
+  },
+  {
+   "title": "Gabriel Jesus",
+   "source": "wk",
+   "meta": "5.681 visitas en un día",
+   "label": "+639 %",
+   "url": "https://es.wikipedia.org/wiki/Gabriel_Jesus",
+   "heat": 25
+  },
+  {
    "title": "GODZILLA MINUS ZERO | Official Trailer 2",
    "source": "yt",
-   "meta": "GODZILLA OFFICIAL by TOHO - 3.138.557 vistas",
-   "label": "147.576 vistas/h",
+   "meta": "GODZILLA OFFICIAL by TOHO - 3.291.985 vistas",
+   "label": "134.888 vistas/h",
    "url": "https://www.youtube.com/watch?v=pWJjYoqVSjQ",
-   "heat": 20
+   "heat": 19
   },
   {
    "title": "Enseñando a Conducir a mi Hermana",
    "source": "yt",
-   "meta": "Rubius Z - 2.040.945 vistas",
-   "label": "118.735 vistas/h",
+   "meta": "Rubius Z - 2.131.242 vistas",
+   "label": "104.848 vistas/h",
    "url": "https://www.youtube.com/watch?v=fN2zmJr0CCg",
-   "heat": 16
+   "heat": 15
+  },
+  {
+   "title": "Oques Grasses",
+   "source": "wk",
+   "meta": "11.233 visitas en un día",
+   "label": "+361 %",
+   "url": "https://es.wikipedia.org/wiki/Oques_Grasses",
+   "heat": 14
   },
   {
    "title": "Anuel AA - Vuelve (Video Oficial)",
    "source": "yt",
-   "meta": "Anuel AA - 6.044.795 vistas",
-   "label": "97.179 vistas/h",
+   "meta": "Anuel AA - 6.095.315 vistas",
+   "label": "93.285 vistas/h",
    "url": "https://www.youtube.com/watch?v=3juuih0WdH8",
    "heat": 13
   },
   {
+   "title": "Natalia Figueroa",
+   "source": "wk",
+   "meta": "7.466 visitas en un día",
+   "label": "+266 %",
+   "url": "https://es.wikipedia.org/wiki/Natalia_Figueroa",
+   "heat": 11
+  },
+  {
+   "title": "Sasha Sokol",
+   "source": "wk",
+   "meta": "5.865 visitas en un día",
+   "label": "+252 %",
+   "url": "https://es.wikipedia.org/wiki/Sasha_Sokol",
+   "heat": 10
+  },
+  {
    "title": "Bulin 47 X Kevin Wai - Dame Hombro (Video Oficial)",
    "source": "yt",
-   "meta": "Bulin 47 Oficial - 6.005.681 vistas",
-   "label": "67.272 vistas/h",
+   "meta": "Bulin 47 Oficial - 6.046.045 vistas",
+   "label": "65.424 vistas/h",
    "url": "https://www.youtube.com/watch?v=VUIgT-E4IS0",
    "heat": 9
   },
   {
+   "title": "Raphael (cantante)",
+   "source": "wk",
+   "meta": "16.335 visitas en un día",
+   "label": "+171 %",
+   "url": "https://es.wikipedia.org/wiki/Raphael_%28cantante%29",
+   "heat": 7
+  },
+  {
    "title": "Tekken 8 Yujiro Reveal Trailer | EVO France 2026",
    "source": "yt",
-   "meta": "GamersPrey - 896.247 vistas",
-   "label": "42.985 vistas/h",
+   "meta": "GamersPrey - 970.928 vistas",
+   "label": "40.475 vistas/h",
    "url": "https://www.youtube.com/watch?v=CBbZm0Xhs7c",
+   "heat": 6
+  },
+  {
+   "title": "Gillian Anderson",
+   "source": "wk",
+   "meta": "5.657 visitas en un día",
+   "label": "+162 %",
+   "url": "https://es.wikipedia.org/wiki/Gillian_Anderson",
+   "heat": 6
+  },
+  {
+   "title": "Kim Young-kwang (actor)",
+   "source": "wk",
+   "meta": "5.572 visitas en un día",
+   "label": "+156 %",
+   "url": "https://es.wikipedia.org/wiki/Kim_Young-kwang_%28actor%29",
+   "heat": 6
+  },
+  {
+   "title": "Animales (película de 2026)",
+   "source": "wk",
+   "meta": "13.613 visitas en un día",
+   "label": "+144 %",
+   "url": "https://es.wikipedia.org/wiki/Animales_%28pel%C3%ADcula_de_2026%29",
    "heat": 6
   },
   {
    "title": "4 IDIOTAS SOBREVIVIENDO en un BOSQUE | SONS OF THE FOREST #1",
    "source": "yt",
-   "meta": "Peereira7 - 463.005 vistas",
-   "label": "12.422 vistas/h",
+   "meta": "Peereira7 - 476.372 vistas",
+   "label": "11.788 vistas/h",
    "url": "https://www.youtube.com/watch?v=groiLmITqDA",
+   "heat": 2
+  },
+  {
+   "title": "ROSALÍA - Reliquia (Live on SNL)",
+   "source": "yt",
+   "meta": "RosaliaVEVO - 138.360 vistas",
+   "label": "15.538 vistas/h",
+   "url": "https://www.youtube.com/watch?v=HU7jSxdFuNI",
    "heat": 2
   },
   {
    "title": "SUPERVIVENCIA EN EL DESIERTO 🐪 - DayZ Badlands ft. Andrés",
    "source": "yt",
-   "meta": "IlloJuan - 566.106 vistas",
-   "label": "12.858 vistas/h",
+   "meta": "IlloJuan - 581.981 vistas",
+   "label": "12.339 vistas/h",
    "url": "https://www.youtube.com/watch?v=DJPtnSmZvu8",
    "heat": 2
   },
   {
    "title": "Feid, El Americano 4KT, Pirlo - PARADIXE",
    "source": "yt",
-   "meta": "Feid - 1.033.052 vistas",
-   "label": "17.157 vistas/h",
+   "meta": "Feid - 1.043.920 vistas",
+   "label": "16.479 vistas/h",
    "url": "https://www.youtube.com/watch?v=La4g9CSXvus",
    "heat": 2
   },
   {
    "title": "Judeline - La Falda (Official Video)",
    "source": "yt",
-   "meta": "JudelineVEVO - 431.421 vistas",
-   "label": "5.180 vistas/h",
+   "meta": "JudelineVEVO - 441.956 vistas",
+   "label": "5.114 vistas/h",
    "url": "https://www.youtube.com/watch?v=7L6oiqd91qE",
    "heat": 1
   },
   {
    "title": "Pokémon Super EX Ep.23 - EL EQUIPO QUE LE METE MIEDO A LOS FOLANOS",
    "source": "yt",
-   "meta": "Folagor03 - 166.918 vistas",
-   "label": "8.659 vistas/h",
+   "meta": "Folagor03 - 170.967 vistas",
+   "label": "7.627 vistas/h",
    "url": "https://www.youtube.com/watch?v=uaEp3GLoGxg",
    "heat": 1
   },
   {
    "title": "UNA LOCURA! Naruto Shippuden NUEVA historia TRAILER: Naruto Shadow Rising (Después de Shippuden)",
    "source": "yt",
-   "meta": "Raas - 319.450 vistas",
-   "label": "10.208 vistas/h",
+   "meta": "Raas - 328.542 vistas",
+   "label": "9.542 vistas/h",
    "url": "https://www.youtube.com/watch?v=Leg9WCeeld0",
    "heat": 1
   },
   {
    "title": "EL EXORCISTA: MÁRTIRES - Tráiler Oficial (Universal Pictures) HD",
    "source": "yt",
-   "meta": "Universal Spain - 80.627 vistas",
-   "label": "1.383 vistas/h",
+   "meta": "Universal Spain - 81.916 vistas",
+   "label": "1.333 vistas/h",
    "url": "https://www.youtube.com/watch?v=aIJwkkfJzCc",
    "heat": 0
   },
   {
    "title": "Blade Runner 2099 | Tráiler Oficial",
    "source": "yt",
-   "meta": "Amazon Prime Video España - 37.680 vistas",
-   "label": "1.125 vistas/h",
+   "meta": "Amazon Prime Video España - 39.663 vistas",
+   "label": "1.083 vistas/h",
    "url": "https://www.youtube.com/watch?v=mwz4QJHAsVQ",
-   "heat": 0
-  },
-  {
-   "title": "RETRICA - Lucho RK (Video oficial)",
-   "source": "yt",
-   "meta": "Lucho RK - 130.362 vistas",
-   "label": "1.569 vistas/h",
-   "url": "https://www.youtube.com/watch?v=B1-YKd0_BH4",
    "heat": 0
   }
  ]
