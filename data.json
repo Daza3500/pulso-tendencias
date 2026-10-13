@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-13T03:14:47.934108+00:00",
+ "updated": "2026-10-13T06:20:18.799547+00:00",
  "items": [
   {
    "title": "Anuel AA - Vuelve (Video Oficial)",
    "source": "yt",
-   "meta": "Anuel AA - 8.970.451 vistas",
-   "label": "111.890 vistas/h",
+   "meta": "Anuel AA - 9.653.361 vistas",
+   "label": "115.937 vistas/h",
    "url": "https://www.youtube.com/watch?v=3juuih0WdH8",
    "heat": 100
   },
@@ -18,20 +18,20 @@
    "heat": 100
   },
   {
-   "title": "Enseñando a Conducir a mi Hermana",
-   "source": "yt",
-   "meta": "Rubius Z - 2.830.203 vistas",
-   "label": "80.498 vistas/h",
-   "url": "https://www.youtube.com/watch?v=fN2zmJr0CCg",
-   "heat": 72
-  },
-  {
    "title": "Gabriel Prieto",
    "source": "wk",
    "meta": "13.636 visitas en un día",
    "label": "+1545 %",
    "url": "https://es.wikipedia.org/wiki/Gabriel_Prieto",
    "heat": 68
+  },
+  {
+   "title": "Enseñando a Conducir a mi Hermana",
+   "source": "yt",
+   "meta": "Rubius Z - 2.952.374 vistas",
+   "label": "77.186 vistas/h",
+   "url": "https://www.youtube.com/watch?v=fN2zmJr0CCg",
+   "heat": 67
   },
   {
    "title": "Máximo Quiles",
@@ -42,20 +42,20 @@
    "heat": 66
   },
   {
-   "title": "Hytale Early Access: Chapter I (Official Trailer)",
-   "source": "yt",
-   "meta": "Hytale - 779.968 vistas",
-   "label": "60.427 vistas/h",
-   "url": "https://www.youtube.com/watch?v=YMhUV1hnzHE",
-   "heat": 54
-  },
-  {
    "title": "Miguel Ríos",
    "source": "wk",
    "meta": "10.646 visitas en un día",
    "label": "+1184 %",
    "url": "https://es.wikipedia.org/wiki/Miguel_R%C3%ADos",
    "heat": 52
+  },
+  {
+   "title": "Hytale Early Access: Chapter I (Official Trailer)",
+   "source": "yt",
+   "meta": "Hytale - 853.859 vistas",
+   "label": "53.368 vistas/h",
+   "url": "https://www.youtube.com/watch?v=YMhUV1hnzHE",
+   "heat": 46
   },
   {
    "title": "Pepe Colubi",
@@ -76,18 +76,26 @@
   {
    "title": "Tekken 8 Yujiro Reveal Trailer | EVO France 2026",
    "source": "yt",
-   "meta": "GamersPrey - 1.442.351 vistas",
-   "label": "37.155 vistas/h",
+   "meta": "GamersPrey - 1.476.529 vistas",
+   "label": "35.229 vistas/h",
    "url": "https://www.youtube.com/watch?v=CBbZm0Xhs7c",
-   "heat": 33
+   "heat": 30
   },
   {
    "title": "RB LEIPZIG si NO hubiera VENDIDO a sus ESTRELLAS (Modo Carrera)",
    "source": "yt",
-   "meta": "ROBERT PG - 431.793 vistas",
-   "label": "35.712 vistas/h",
+   "meta": "ROBERT PG - 503.335 vistas",
+   "label": "33.152 vistas/h",
    "url": "https://www.youtube.com/watch?v=ZHuagxYqo4U",
-   "heat": 32
+   "heat": 29
+  },
+  {
+   "title": "TERMINANDO FUT CHAMPIONS (CUENTA HUMILDE) FC 27 - DjMaRiiO",
+   "source": "yt",
+   "meta": "DjMaRiiO - 235.972 vistas",
+   "label": "30.252 vistas/h",
+   "url": "https://www.youtube.com/watch?v=yYFqfnoXjWo",
+   "heat": 26
   },
   {
    "title": "Alejandra López",
@@ -130,28 +138,20 @@
    "heat": 23
   },
   {
-   "title": "Fontaines D.C. - Where Is Gone? (with Rosalía)",
-   "source": "yt",
-   "meta": "Fontaines DC - 158.518 vistas",
-   "label": "16.267 vistas/h",
-   "url": "https://www.youtube.com/watch?v=JxS3kEhO4zk",
-   "heat": 15
-  },
-  {
    "title": "ROSALÍA - Reliquia (Live on SNL)",
    "source": "yt",
-   "meta": "RosaliaVEVO - 361.777 vistas",
-   "label": "15.241 vistas/h",
+   "meta": "RosaliaVEVO - 383.371 vistas",
+   "label": "14.290 vistas/h",
    "url": "https://www.youtube.com/watch?v=HU7jSxdFuNI",
-   "heat": 14
+   "heat": 12
   },
   {
-   "title": "Mi primer gameplay con Auron",
+   "title": "Fontaines D.C. - Where Is Gone? (with Rosalía)",
    "source": "yt",
-   "meta": "Fabiana Sevillano - 131.040 vistas",
-   "label": "14.496 vistas/h",
-   "url": "https://www.youtube.com/watch?v=L_7WQ1gPfGU",
-   "heat": 13
+   "meta": "Fontaines DC - 173.886 vistas",
+   "label": "13.546 vistas/h",
+   "url": "https://www.youtube.com/watch?v=JxS3kEhO4zk",
+   "heat": 12
   },
   {
    "title": "León XIV",
@@ -170,19 +170,19 @@
    "heat": 12
   },
   {
-   "title": "Pokémon Super EX Ep.24 - M E N T A L I D A D.",
+   "title": "Mi primer gameplay con Auron",
    "source": "yt",
-   "meta": "Folagor03 - 162.645 vistas",
-   "label": "12.584 vistas/h",
-   "url": "https://www.youtube.com/watch?v=5Mi27V_q4Xk",
-   "heat": 11
+   "meta": "Fabiana Sevillano - 138.610 vistas",
+   "label": "11.425 vistas/h",
+   "url": "https://www.youtube.com/watch?v=L_7WQ1gPfGU",
+   "heat": 10
   },
   {
-   "title": "4 IDIOTAS SOBREVIVIENDO en un BOSQUE | SONS OF THE FOREST #1",
+   "title": "Pokémon Super EX Ep.24 - M E N T A L I D A D.",
    "source": "yt",
-   "meta": "Peereira7 - 565.638 vistas",
-   "label": "10.239 vistas/h",
-   "url": "https://www.youtube.com/watch?v=groiLmITqDA",
+   "meta": "Folagor03 - 171.426 vistas",
+   "label": "10.703 vistas/h",
+   "url": "https://www.youtube.com/watch?v=5Mi27V_q4Xk",
    "heat": 9
   },
   {
@@ -204,40 +204,40 @@
   {
    "title": "Judeline - La Falda (Official Video)",
    "source": "yt",
-   "meta": "JudelineVEVO - 508.533 vistas",
-   "label": "5.022 vistas/h",
+   "meta": "JudelineVEVO - 514.801 vistas",
+   "label": "4.934 vistas/h",
    "url": "https://www.youtube.com/watch?v=7L6oiqd91qE",
    "heat": 4
   },
   {
    "title": "SEXY  cap. 4 - YOLAMASCARA FT SEXYY RED",
    "source": "yt",
-   "meta": "YOLAMASCARA - 29.079 vistas",
-   "label": "3.527 vistas/h",
+   "meta": "YOLAMASCARA - 30.408 vistas",
+   "label": "2.682 vistas/h",
    "url": "https://www.youtube.com/watch?v=0L9RNGDSl8Q",
-   "heat": 3
+   "heat": 2
   },
   {
    "title": "Blade Runner 2099 | Tráiler Oficial",
    "source": "yt",
-   "meta": "Amazon Prime Video España - 57.398 vistas",
-   "label": "1.115 vistas/h",
+   "meta": "Amazon Prime Video España - 58.824 vistas",
+   "label": "1.078 vistas/h",
    "url": "https://www.youtube.com/watch?v=mwz4QJHAsVQ",
    "heat": 1
   },
   {
    "title": "EL EXORCISTA: MÁRTIRES - Tráiler Oficial (Universal Pictures) HD",
    "source": "yt",
-   "meta": "Universal Spain - 104.066 vistas",
-   "label": "1.364 vistas/h",
+   "meta": "Universal Spain - 115.770 vistas",
+   "label": "1.459 vistas/h",
    "url": "https://www.youtube.com/watch?v=aIJwkkfJzCc",
    "heat": 1
   },
   {
    "title": "BLADE RUNNER 2099 Tráiler 2 Oficial Español (2027)",
    "source": "yt",
-   "meta": "Trailers In Spanish - 19.872 vistas",
-   "label": "995 vistas/h",
+   "meta": "Trailers In Spanish - 20.649 vistas",
+   "label": "895 vistas/h",
    "url": "https://www.youtube.com/watch?v=SbM25uA6vTQ",
    "heat": 1
   }
