@@ -1,123 +1,243 @@
 {
- "updated": "2026-10-16T09:26:37.645511+00:00",
+ "updated": "2026-10-16T12:29:57.476526+00:00",
  "items": [
   {
    "title": "Grand Theft Auto VI Launch Trailer",
    "source": "yt",
-   "meta": "Rockstar Games - 23.368.889 vistas",
-   "label": "1.143.485 vistas/h",
+   "meta": "Rockstar Games - 25.021.722 vistas",
+   "label": "1.065.114 vistas/h",
    "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
    "heat": 100
   },
   {
+   "title": "Jorge Fernando Castro",
+   "source": "wk",
+   "meta": "31.306 visitas en un día",
+   "label": "+3722 %",
+   "url": "https://es.wikipedia.org/wiki/Jorge_Fernando_Castro",
+   "heat": 100
+  },
+  {
+   "title": "Salvador Sobral",
+   "source": "wk",
+   "meta": "20.289 visitas en un día",
+   "label": "+2377 %",
+   "url": "https://es.wikipedia.org/wiki/Salvador_Sobral",
+   "heat": 64
+  },
+  {
+   "title": "Jorge Castro (boxeador)",
+   "source": "wk",
+   "meta": "12.330 visitas en un día",
+   "label": "+1405 %",
+   "url": "https://es.wikipedia.org/wiki/Jorge_Castro_%28boxeador%29",
+   "heat": 38
+  },
+  {
+   "title": "Antonio Rüdiger",
+   "source": "wk",
+   "meta": "11.042 visitas en un día",
+   "label": "+1248 %",
+   "url": "https://es.wikipedia.org/wiki/Antonio_R%C3%BCdiger",
+   "heat": 34
+  },
+  {
    "title": "Olivia Rodrigo - expectations (feat. Chappell Roan) (Official Music Video)",
    "source": "yt",
-   "meta": "OliviaRodrigoVEVO - 3.296.580 vistas",
-   "label": "349.177 vistas/h",
+   "meta": "OliviaRodrigoVEVO - 3.948.903 vistas",
+   "label": "316.001 vistas/h",
    "url": "https://www.youtube.com/watch?v=gsZauX8gwxo",
-   "heat": 31
+   "heat": 30
+  },
+  {
+   "title": "Jenna Thiam",
+   "source": "wk",
+   "meta": "9.751 visitas en un día",
+   "label": "+1091 %",
+   "url": "https://es.wikipedia.org/wiki/Jenna_Thiam",
+   "heat": 29
+  },
+  {
+   "title": "Mario Hermoso",
+   "source": "wk",
+   "meta": "9.603 visitas en un día",
+   "label": "+1073 %",
+   "url": "https://es.wikipedia.org/wiki/Mario_Hermoso",
+   "heat": 29
+  },
+  {
+   "title": "Eleuterio Sánchez",
+   "source": "wk",
+   "meta": "8.362 visitas en un día",
+   "label": "+921 %",
+   "url": "https://es.wikipedia.org/wiki/Eleuterio_S%C3%A1nchez",
+   "heat": 25
+  },
+  {
+   "title": "Save Hay Day from the Red Revenant!",
+   "source": "yt",
+   "meta": "Hay Day - 979.473 vistas",
+   "label": "222.237 vistas/h",
+   "url": "https://www.youtube.com/watch?v=ikznGAyMjJk",
+   "heat": 21
+  },
+  {
+   "title": "Charlie Sheen",
+   "source": "wk",
+   "meta": "7.186 visitas en un día",
+   "label": "+777 %",
+   "url": "https://es.wikipedia.org/wiki/Charlie_Sheen",
+   "heat": 21
+  },
+  {
+   "title": "Donyell Malen",
+   "source": "wk",
+   "meta": "6.460 visitas en un día",
+   "label": "+689 %",
+   "url": "https://es.wikipedia.org/wiki/Donyell_Malen",
+   "heat": 19
+  },
+  {
+   "title": "Paulo Dybala",
+   "source": "wk",
+   "meta": "6.139 visitas en un día",
+   "label": "+650 %",
+   "url": "https://es.wikipedia.org/wiki/Paulo_Dybala",
+   "heat": 17
+  },
+  {
+   "title": "Enzo Maresca",
+   "source": "wk",
+   "meta": "6.128 visitas en un día",
+   "label": "+648 %",
+   "url": "https://es.wikipedia.org/wiki/Enzo_Maresca",
+   "heat": 17
+  },
+  {
+   "title": "Brooke Shields",
+   "source": "wk",
+   "meta": "5.756 visitas en un día",
+   "label": "+603 %",
+   "url": "https://es.wikipedia.org/wiki/Brooke_Shields",
+   "heat": 16
+  },
+  {
+   "title": "Carlos Espí",
+   "source": "wk",
+   "meta": "5.641 visitas en un día",
+   "label": "+589 %",
+   "url": "https://es.wikipedia.org/wiki/Carlos_Esp%C3%AD",
+   "heat": 16
+  },
+  {
+   "title": "Katie Zacharia",
+   "source": "wk",
+   "meta": "5.526 visitas en un día",
+   "label": "+575 %",
+   "url": "https://es.wikipedia.org/wiki/Katie_Zacharia",
+   "heat": 15
+  },
+  {
+   "title": "Pamela David",
+   "source": "wk",
+   "meta": "5.049 visitas en un día",
+   "label": "+516 %",
+   "url": "https://es.wikipedia.org/wiki/Pamela_David",
+   "heat": 14
   },
   {
    "title": "Gravestone Griff or Melodie's Tattoo?! #Scarycoffins",
    "source": "yt",
-   "meta": "Brawl Stars - 3.248.264 vistas",
-   "label": "128.370 vistas/h",
+   "meta": "Brawl Stars - 3.369.267 vistas",
+   "label": "118.806 vistas/h",
    "url": "https://www.youtube.com/watch?v=GphPHvKIN_w",
    "heat": 11
   },
   {
    "title": "WORLDS 2026 | EMPIEZA LA COMPETICIÓN DEL AÑO | KC vs C9 | FUR vs MVK | PLAY IN DÍA 1 #WORLDS2026",
    "source": "yt",
-   "meta": "IbaiExtra - 409.529 vistas",
-   "label": "53.911 vistas/h",
+   "meta": "IbaiExtra - 418.489 vistas",
+   "label": "39.288 vistas/h",
    "url": "https://www.youtube.com/watch?v=8ci8rGBi4lU",
-   "heat": 5
+   "heat": 4
   },
   {
    "title": " FABIANA SEVILLANO ESTÁ DESATADA 💀 HARDCORE #2 ",
    "source": "yt",
-   "meta": "Auron - 1.017.371 vistas",
-   "label": "25.995 vistas/h",
+   "meta": "Auron - 1.026.809 vistas",
+   "label": "24.337 vistas/h",
    "url": "https://www.youtube.com/watch?v=BeJqE-BAEXA",
    "heat": 2
   },
   {
    "title": "REACCIONANDO a GTA VI Tráiler de Lanzamiento - TheGrefg",
    "source": "yt",
-   "meta": "TheGrefg - 363.888 vistas",
-   "label": "22.899 vistas/h",
+   "meta": "TheGrefg - 380.878 vistas",
+   "label": "20.103 vistas/h",
    "url": "https://www.youtube.com/watch?v=NelZ43182hE",
+   "heat": 2
+  },
+  {
+   "title": "REACCIONANDO al TRAILER de LANZAMIENTO de GTA 6",
+   "source": "yt",
+   "meta": "DaniRep | +6 Vídeos Diarios De GTA 5 Online! - 329.283 vistas",
+   "label": "16.827 vistas/h",
+   "url": "https://www.youtube.com/watch?v=aGu_-fi18HU",
    "heat": 2
   },
   {
    "title": "IIlloJuan Reacciona al NUEVO TRÁILER de LANZAMIENTO de GTA 6",
    "source": "yt",
-   "meta": "IlloReacts - 180.573 vistas",
-   "label": "11.867 vistas/h",
+   "meta": "IlloReacts - 196.872 vistas",
+   "label": "10.774 vistas/h",
    "url": "https://www.youtube.com/watch?v=f9rfCmQpN8o",
    "heat": 1
   },
   {
    "title": "Pokémon Super EX Ep.27 - HA OCURRIDO LO PEOR. LO SIENTO MUCHO.",
    "source": "yt",
-   "meta": "Folagor03 - 175.024 vistas",
-   "label": "9.002 vistas/h",
+   "meta": "Folagor03 - 179.846 vistas",
+   "label": "7.994 vistas/h",
    "url": "https://www.youtube.com/watch?v=vGECIznhbbI",
    "heat": 1
   },
   {
    "title": "The Legend of Zelda: Ocarina of Time – Tráiler general (Nintendo Switch 2)",
    "source": "yt",
-   "meta": "Nintendo España - 432.451 vistas",
-   "label": "9.733 vistas/h",
+   "meta": "Nintendo España - 443.700 vistas",
+   "label": "9.344 vistas/h",
    "url": "https://www.youtube.com/watch?v=FrzKHacg1i4",
-   "heat": 1
-  },
-  {
-   "title": "Analisis Completo del NUEVO TRAILER de Lanzamiento de GTA 6",
-   "source": "yt",
-   "meta": "KerstHD - 102.884 vistas",
-   "label": "6.662 vistas/h",
-   "url": "https://www.youtube.com/watch?v=W0RSCR-w7ls",
-   "heat": 1
-  },
-  {
-   "title": "han creado un Mario Party inspirado en SAW... y lo he probado con 3 chicas.",
-   "source": "yt",
-   "meta": "rickyedit - 396.868 vistas",
-   "label": "8.949 vistas/h",
-   "url": "https://www.youtube.com/watch?v=enqljvCBHos",
    "heat": 1
   },
   {
    "title": "0 AMIGOS cap. 5 - YOLAMASCARA",
    "source": "yt",
-   "meta": "YOLAMASCARA - 41.685 vistas",
-   "label": "2.886 vistas/h",
+   "meta": "YOLAMASCARA - 47.957 vistas",
+   "label": "2.740 vistas/h",
    "url": "https://www.youtube.com/watch?v=aqS1yAEEASw",
    "heat": 0
   },
   {
    "title": "Estopa - Bicho raro (Video Oficial)",
    "source": "yt",
-   "meta": "EstopaVEVO - 38.708 vistas",
-   "label": "3.383 vistas/h",
+   "meta": "EstopaVEVO - 58.397 vistas",
+   "label": "4.028 vistas/h",
    "url": "https://www.youtube.com/watch?v=8IMveAh7nhA",
    "heat": 0
   },
   {
    "title": "GRECAS - Fua kabrón (15 SEGUNDOS)",
    "source": "yt",
-   "meta": "GRECAS - 23.488 vistas",
-   "label": "1.626 vistas/h",
+   "meta": "GRECAS - 29.511 vistas",
+   "label": "1.686 vistas/h",
    "url": "https://www.youtube.com/watch?v=orwiyr_FUgE",
    "heat": 0
   },
   {
    "title": "Yapi - YOUR NUMBER (Spanish Version)(Video Oficial)",
    "source": "yt",
-   "meta": "Yapi - 27.870 vistas",
-   "label": "1.929 vistas/h",
+   "meta": "Yapi - 33.531 vistas",
+   "label": "1.916 vistas/h",
    "url": "https://www.youtube.com/watch?v=xxToWcYEGJw",
    "heat": 0
   }
