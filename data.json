@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-22T03:25:54.582809+00:00",
+ "updated": "2026-10-22T06:31:33.076929+00:00",
  "items": [
   {
    "title": "INVITÉ A CAROLA AL AMONG US, SÓLO PARA SACARLE CHISME DE SU CITA",
    "source": "yt",
-   "meta": "Auron - 879.118 vistas",
-   "label": "93.277 vistas/h",
+   "meta": "Auron - 1.112.409 vistas",
+   "label": "88.859 vistas/h",
    "url": "https://www.youtube.com/watch?v=re9lSXWOe18",
    "heat": 100
   },
@@ -20,32 +20,32 @@
   {
    "title": "Las Semillas Mas Increibles de Minecraft",
    "source": "yt",
-   "meta": "Rubius Z - 4.065.649 vistas",
-   "label": "72.720 vistas/h",
+   "meta": "Rubius Z - 4.158.015 vistas",
+   "label": "70.472 vistas/h",
    "url": "https://www.youtube.com/watch?v=fz33oANjBZQ",
-   "heat": 78
+   "heat": 79
   },
   {
    "title": "W Sound 10 “HAPPY MONDAY” - Hades66, Westcol, Ovy On The Drums",
    "source": "yt",
-   "meta": "W Sound - 210.093 vistas",
-   "label": "61.265 vistas/h",
+   "meta": "W Sound - 350.487 vistas",
+   "label": "53.729 vistas/h",
    "url": "https://www.youtube.com/watch?v=LYn4w3m3Pjo",
-   "heat": 66
+   "heat": 60
   },
   {
    "title": "Ozuna x Jory Boy x Ñengo Flow - Vulnerable (Video Oficial)",
    "source": "yt",
-   "meta": "Ozuna - 598.268 vistas",
-   "label": "52.346 vistas/h",
+   "meta": "Ozuna - 666.870 vistas",
+   "label": "45.918 vistas/h",
    "url": "https://www.youtube.com/watch?v=OWbhwq9fecg",
-   "heat": 56
+   "heat": 52
   },
   {
    "title": "MODO CARRERA Episodio.1 (EA SPORTS FC 27)",
    "source": "yt",
-   "meta": "ROBERT PG - 537.312 vistas",
-   "label": "37.906 vistas/h",
+   "meta": "ROBERT PG - 625.451 vistas",
+   "label": "36.218 vistas/h",
    "url": "https://www.youtube.com/watch?v=W_py-go_HZE",
    "heat": 41
   },
@@ -106,6 +106,14 @@
    "heat": 22
   },
   {
+   "title": "Plan B - Es Un Secreto 🤫 (Letra) | (Lyrics)",
+   "source": "yt",
+   "meta": "Xabian.j - 604.646 vistas",
+   "label": "18.421 vistas/h",
+   "url": "https://www.youtube.com/watch?v=XrxQJT2vGX0",
+   "heat": 21
+  },
+  {
    "title": "Leonor Manso",
    "source": "wk",
    "meta": "8.998 visitas en un día",
@@ -114,28 +122,20 @@
    "heat": 21
   },
   {
-   "title": "Así hice mi MEJOR PARTIDA de AMONG US",
-   "source": "yt",
-   "meta": "AGUSTIN51 WORLD - 279.606 vistas",
-   "label": "19.103 vistas/h",
-   "url": "https://www.youtube.com/watch?v=cceeMWM3QC4",
-   "heat": 20
-  },
-  {
-   "title": "Plan B - Es Un Secreto 🤫 (Letra) | (Lyrics)",
-   "source": "yt",
-   "meta": "Xabian.j - 547.188 vistas",
-   "label": "18.405 vistas/h",
-   "url": "https://www.youtube.com/watch?v=XrxQJT2vGX0",
-   "heat": 20
-  },
-  {
    "title": "Jaime Lorente",
    "source": "wk",
    "meta": "8.456 visitas en un día",
    "label": "+865 %",
    "url": "https://es.wikipedia.org/wiki/Jaime_Lorente",
    "heat": 20
+  },
+  {
+   "title": "Así hice mi MEJOR PARTIDA de AMONG US",
+   "source": "yt",
+   "meta": "AGUSTIN51 WORLD - 287.779 vistas",
+   "label": "16.230 vistas/h",
+   "url": "https://www.youtube.com/watch?v=cceeMWM3QC4",
+   "heat": 18
   },
   {
    "title": "Lucía Caraballo",
@@ -170,14 +170,6 @@
    "heat": 13
   },
   {
-   "title": "Pokémon Super EX Ep.33 - EL ÚLTIMO DIOS DE LOCKE",
-   "source": "yt",
-   "meta": "Folagor03 - 152.830 vistas",
-   "label": "11.435 vistas/h",
-   "url": "https://www.youtube.com/watch?v=Ov6op07pgFo",
-   "heat": 12
-  },
-  {
    "title": "Carlos María Isidro de Borbón",
    "source": "wk",
    "meta": "6.802 visitas en un día",
@@ -186,58 +178,66 @@
    "heat": 12
   },
   {
+   "title": "Pokémon Super EX Ep.33 - EL ÚLTIMO DIOS DE LOCKE",
+   "source": "yt",
+   "meta": "Folagor03 - 161.294 vistas",
+   "label": "9.800 vistas/h",
+   "url": "https://www.youtube.com/watch?v=Ov6op07pgFo",
+   "heat": 11
+  },
+  {
    "title": "Conep - Vete Pa Tu Casa (Official Visualizer)",
    "source": "yt",
-   "meta": "ConepVEVO - 165.094 vistas",
-   "label": "5.852 vistas/h",
+   "meta": "ConepVEVO - 174.139 vistas",
+   "label": "5.562 vistas/h",
    "url": "https://www.youtube.com/watch?v=HBoW8-q-sSs",
    "heat": 6
   },
   {
    "title": "Los Anillos de Poder - Temporada 3 | Tráiler Oficial",
    "source": "yt",
-   "meta": "Amazon Prime Video España - 38.149 vistas",
-   "label": "3.492 vistas/h",
+   "meta": "Amazon Prime Video España - 40.524 vistas",
+   "label": "2.890 vistas/h",
    "url": "https://www.youtube.com/watch?v=jZgau3bEA94",
-   "heat": 4
+   "heat": 3
   },
   {
    "title": "RED BOTTOM cap. 6 - YOLAMASCARA",
    "source": "yt",
-   "meta": "YOLAMASCARA - 29.507 vistas",
-   "label": "3.501 vistas/h",
+   "meta": "YOLAMASCARA - 31.287 vistas",
+   "label": "2.715 vistas/h",
    "url": "https://www.youtube.com/watch?v=9ox8EfPRCWc",
-   "heat": 4
+   "heat": 3
   },
   {
    "title": "The Legend of Zelda: Ocarina of Time – Un tráiler mítico (Nintendo Switch 2)",
    "source": "yt",
-   "meta": "Nintendo España - 120.103 vistas",
-   "label": "2.831 vistas/h",
+   "meta": "Nintendo España - 121.358 vistas",
+   "label": "2.666 vistas/h",
    "url": "https://www.youtube.com/watch?v=XxVB4DiwcfE",
    "heat": 3
   },
   {
    "title": "EL SEÑOR DE LOS ANILLOS: LOS ANILLOS DE PODER Temporada 3 Tráiler Oficial Español Latino (2026)",
    "source": "yt",
-   "meta": "Trailers In Spanish - 22.636 vistas",
-   "label": "2.140 vistas/h",
+   "meta": "Trailers In Spanish - 27.685 vistas",
+   "label": "2.025 vistas/h",
    "url": "https://www.youtube.com/watch?v=sUwHbbnMkPY",
    "heat": 2
   },
   {
    "title": "PERFECTOS CONOCIDOS - Tráiler Oficial",
    "source": "yt",
-   "meta": "Universal Spain - 11.043 vistas",
-   "label": "822 vistas/h",
+   "meta": "Universal Spain - 11.967 vistas",
+   "label": "724 vistas/h",
    "url": "https://www.youtube.com/watch?v=LkwzsTG9KoA",
    "heat": 1
   },
   {
    "title": "Leones en Invierno | Tráiler oficial en HD. Exclusivamente en cines 22 de octubre",
    "source": "yt",
-   "meta": "Sony Pictures España - 16.318 vistas",
-   "label": "89 vistas/h",
+   "meta": "Sony Pictures España - 16.389 vistas",
+   "label": "88 vistas/h",
    "url": "https://www.youtube.com/watch?v=DLWy3vo-3wc",
    "heat": 0
   }
