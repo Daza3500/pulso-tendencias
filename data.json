@@ -1,123 +1,243 @@
 {
- "updated": "2026-11-02T09:54:13.909670+00:00",
+ "updated": "2026-11-02T12:52:42.964624+00:00",
  "items": [
   {
    "title": "Gus's Origin Story! (Brawl Stars Animation)",
    "source": "yt",
-   "meta": "Brawl Stars - 830.945 vistas",
-   "label": "438.124 vistas/h",
+   "meta": "Brawl Stars - 1.999.327 vistas",
+   "label": "410.433 vistas/h",
    "url": "https://www.youtube.com/watch?v=t6ySEQzL1yE",
+   "heat": 100
+  },
+  {
+   "title": "Brian Fariñas Pérez",
+   "source": "wk",
+   "meta": "27.282 visitas en un día",
+   "label": "+3434 %",
+   "url": "https://es.wikipedia.org/wiki/Brian_Fari%C3%B1as_P%C3%A9rez",
    "heat": 100
   },
   {
    "title": "Daddy Yankee and Diljit Dosanjh - POKITO  (Official Music Video)",
    "source": "yt",
-   "meta": "Daddy Yankee - 19.457.716 vistas",
-   "label": "249.775 vistas/h",
+   "meta": "Daddy Yankee - 20.225.205 vistas",
+   "label": "250.078 vistas/h",
    "url": "https://www.youtube.com/watch?v=XO1h5G6xytU",
-   "heat": 57
+   "heat": 61
+  },
+  {
+   "title": "Canelo Álvarez",
+   "source": "wk",
+   "meta": "14.770 visitas en un día",
+   "label": "+719 %",
+   "url": "https://es.wikipedia.org/wiki/Canelo_%C3%81lvarez",
+   "heat": 21
   },
   {
    "title": "Rockstar ha transformado Miami para GTA VI 🌴 - Miami Stories #1",
    "source": "yt",
-   "meta": "IlloJuan - 1.084.603 vistas",
-   "label": "83.626 vistas/h",
+   "meta": "IlloJuan - 1.235.894 vistas",
+   "label": "77.513 vistas/h",
    "url": "https://www.youtube.com/watch?v=r38HzMkc2PM",
    "heat": 19
   },
   {
+   "title": "El Komander",
+   "source": "wk",
+   "meta": "5.187 visitas en un día",
+   "label": "+572 %",
+   "url": "https://es.wikipedia.org/wiki/El_Komander",
+   "heat": 17
+  },
+  {
+   "title": "Ryō Hirakawa",
+   "source": "wk",
+   "meta": "5.174 visitas en un día",
+   "label": "+570 %",
+   "url": "https://es.wikipedia.org/wiki/Ry%C5%8D_Hirakawa",
+   "heat": 17
+  },
+  {
    "title": "Me Obligaron a Limpiar las BACKROOMS",
    "source": "yt",
-   "meta": "Rubius Z - 2.553.594 vistas",
-   "label": "62.630 vistas/h",
+   "meta": "Rubius Z - 2.590.893 vistas",
+   "label": "59.224 vistas/h",
    "url": "https://www.youtube.com/watch?v=xliQDdUKGXA",
    "heat": 14
   },
   {
+   "title": "Julia Roberts",
+   "source": "wk",
+   "meta": "5.978 visitas en un día",
+   "label": "+441 %",
+   "url": "https://es.wikipedia.org/wiki/Julia_Roberts",
+   "heat": 13
+  },
+  {
    "title": "Fortnite Treasure Hunters | One Piece Hybrid Trailer",
    "source": "yt",
-   "meta": "Fortnite - 909.207 vistas",
-   "label": "35.394 vistas/h",
+   "meta": "Fortnite - 930.122 vistas",
+   "label": "32.450 vistas/h",
    "url": "https://www.youtube.com/watch?v=rnjWNafJy8Q",
    "heat": 8
   },
   {
    "title": "El ascenso y caída de BioWare",
    "source": "yt",
-   "meta": "BaityBait - 577.868 vistas",
-   "label": "36.621 vistas/h",
+   "meta": "BaityBait - 620.674 vistas",
+   "label": "33.095 vistas/h",
    "url": "https://www.youtube.com/watch?v=5ZSm3mSqcZw",
    "heat": 8
   },
   {
    "title": "PARADIXE (REMIX)",
    "source": "yt",
-   "meta": "Feid - Topic - 345.767 vistas",
-   "label": "29.165 vistas/h",
+   "meta": "Feid - Topic - 380.509 vistas",
+   "label": "25.658 vistas/h",
    "url": "https://www.youtube.com/watch?v=YXvFLBjTCQA",
-   "heat": 7
-  },
-  {
-   "title": "Trailer final de Avengers Doomsday FECHA revelada, regreso Iron Man, preguntas y respuestas Doomsday",
-   "source": "yt",
-   "meta": "Pelicomic - 323.599 vistas",
-   "label": "25.441 vistas/h",
-   "url": "https://www.youtube.com/watch?v=0iJ6ZAYnAQE",
    "heat": 6
   },
   {
    "title": "El Americano 4KT, Lil Naay - Cartier Remix",
    "source": "yt",
-   "meta": "ElAmericano4KTVEVO - 2.265.314 vistas",
-   "label": "25.483 vistas/h",
+   "meta": "ElAmericano4KTVEVO - 2.278.651 vistas",
+   "label": "24.803 vistas/h",
    "url": "https://www.youtube.com/watch?v=gMWW4zJhfA8",
    "heat": 6
   },
   {
+   "title": "Trailer final de Avengers Doomsday FECHA revelada, regreso Iron Man, preguntas y respuestas Doomsday",
+   "source": "yt",
+   "meta": "Pelicomic - 340.607 vistas",
+   "label": "21.702 vistas/h",
+   "url": "https://www.youtube.com/watch?v=0iJ6ZAYnAQE",
+   "heat": 5
+  },
+  {
    "title": "Emilia - BODYPAINTING (Official Video)",
    "source": "yt",
-   "meta": "EmiliaMusicVEVO - 1.475.670 vistas",
-   "label": "18.019 vistas/h",
+   "meta": "EmiliaMusicVEVO - 1.489.741 vistas",
+   "label": "17.553 vistas/h",
    "url": "https://www.youtube.com/watch?v=Whne2kfTjCk",
    "heat": 4
   },
   {
    "title": "Euro Truck Simulator 2: Coaches Video Trailer",
    "source": "yt",
-   "meta": "SCS Software - 314.267 vistas",
-   "label": "17.538 vistas/h",
+   "meta": "SCS Software - 350.625 vistas",
+   "label": "16.781 vistas/h",
    "url": "https://www.youtube.com/watch?v=JOClo5aYqHU",
+   "heat": 4
+  },
+  {
+   "title": "Inés Gómez Mont",
+   "source": "wk",
+   "meta": "61.516 visitas en un día",
+   "label": "+127 %",
+   "url": "https://es.wikipedia.org/wiki/In%C3%A9s_G%C3%B3mez_Mont",
    "heat": 4
   },
   {
    "title": "Pokémon Super L Ep.2 - PARECE BROMA PERO. FIN DE LOCKE.",
    "source": "yt",
-   "meta": "Folagor03 - 233.582 vistas",
-   "label": "12.684 vistas/h",
+   "meta": "Folagor03 - 243.596 vistas",
+   "label": "11.388 vistas/h",
    "url": "https://www.youtube.com/watch?v=ckAH1KsxjFQ",
    "heat": 3
   },
   {
+   "title": "Samhain",
+   "source": "wk",
+   "meta": "5.735 visitas en un día",
+   "label": "+119 %",
+   "url": "https://es.wikipedia.org/wiki/Samhain",
+   "heat": 3
+  },
+  {
+   "title": "Halloween",
+   "source": "wk",
+   "meta": "38.679 visitas en un día",
+   "label": "+99 %",
+   "url": "https://es.wikipedia.org/wiki/Halloween",
+   "heat": 3
+  },
+  {
+   "title": "Accidente ferroviario de Urda",
+   "source": "wk",
+   "meta": "25.118 visitas en un día",
+   "label": "+93 %",
+   "url": "https://es.wikipedia.org/wiki/Accidente_ferroviario_de_Urda",
+   "heat": 3
+  },
+  {
+   "title": "Día de Todos los Santos",
+   "source": "wk",
+   "meta": "8.439 visitas en un día",
+   "label": "+67 %",
+   "url": "https://es.wikipedia.org/wiki/D%C3%ADa_de_Todos_los_Santos",
+   "heat": 2
+  },
+  {
+   "title": "Karol Nawrocki",
+   "source": "wk",
+   "meta": "7.533 visitas en un día",
+   "label": "+53 %",
+   "url": "https://es.wikipedia.org/wiki/Karol_Nawrocki",
+   "heat": 2
+  },
+  {
    "title": "Quasimodo, el alma de París | Tráiler oficial | Netflix España",
    "source": "yt",
-   "meta": "Netflix España - 214.194 vistas",
-   "label": "3.250 vistas/h",
+   "meta": "Netflix España - 219.181 vistas",
+   "label": "3.182 vistas/h",
    "url": "https://www.youtube.com/watch?v=6pT20eQ6Kmo",
+   "heat": 1
+  },
+  {
+   "title": "La Catrina",
+   "source": "wk",
+   "meta": "6.939 visitas en un día",
+   "label": "+45 %",
+   "url": "https://es.wikipedia.org/wiki/La_Catrina",
+   "heat": 1
+  },
+  {
+   "title": "Marisa Manchado",
+   "source": "wk",
+   "meta": "6.854 visitas en un día",
+   "label": "+43 %",
+   "url": "https://es.wikipedia.org/wiki/Marisa_Manchado",
+   "heat": 1
+  },
+  {
+   "title": "Matthew Perry (actor)",
+   "source": "wk",
+   "meta": "10.161 visitas en un día",
+   "label": "+31 %",
+   "url": "https://es.wikipedia.org/wiki/Matthew_Perry_%28actor%29",
+   "heat": 1
+  },
+  {
+   "title": "Día de Muertos",
+   "source": "wk",
+   "meta": "11.804 visitas en un día",
+   "label": "+28 %",
+   "url": "https://es.wikipedia.org/wiki/D%C3%ADa_de_Muertos",
    "heat": 1
   },
   {
    "title": "Josue Rarujo - Lejos de Mi (Video Oficial)",
    "source": "yt",
-   "meta": "JosueRarujoVEVO - 179.240 vistas",
-   "label": "2.039 vistas/h",
+   "meta": "JosueRarujoVEVO - 186.085 vistas",
+   "label": "2.047 vistas/h",
    "url": "https://www.youtube.com/watch?v=tA1QNxP5f_w",
    "heat": 0
   },
   {
    "title": "VISIBLES | Tráiler inédito del capítulo 6 ¿Habrá segunda temporada?",
    "source": "yt",
-   "meta": "Visual Story Productions - 7.985 vistas",
-   "label": "574 vistas/h",
+   "meta": "Visual Story Productions - 8.750 vistas",
+   "label": "518 vistas/h",
    "url": "https://www.youtube.com/watch?v=9EIQjomL2Xs",
    "heat": 0
   }
