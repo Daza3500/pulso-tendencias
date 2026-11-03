@@ -1,19 +1,11 @@
 {
- "updated": "2026-11-03T06:54:43.105836+00:00",
+ "updated": "2026-11-03T09:49:50.319184+00:00",
  "items": [
-  {
-   "title": "Gus's Origin Story! (Brawl Stars Animation)",
-   "source": "yt",
-   "meta": "Brawl Stars - 6.882.378 vistas",
-   "label": "300.479 vistas/h",
-   "url": "https://www.youtube.com/watch?v=t6ySEQzL1yE",
-   "heat": 100
-  },
   {
    "title": "Call of Duty: Warzone | Hajin Conflict | Launch Trailer",
    "source": "yt",
-   "meta": "Call of Duty - 4.462.410 vistas",
-   "label": "299.340 vistas/h",
+   "meta": "Call of Duty - 5.371.638 vistas",
+   "label": "301.334 vistas/h",
    "url": "https://www.youtube.com/watch?v=iOfYGojxFE0",
    "heat": 100
   },
@@ -34,12 +26,12 @@
    "heat": 94
   },
   {
-   "title": "Daddy Yankee and Diljit Dosanjh - POKITO  (Official Music Video)",
+   "title": "Gus's Origin Story! (Brawl Stars Animation)",
    "source": "yt",
-   "meta": "Daddy Yankee - 24.303.626 vistas",
-   "label": "245.717 vistas/h",
-   "url": "https://www.youtube.com/watch?v=XO1h5G6xytU",
-   "heat": 82
+   "meta": "Brawl Stars - 7.164.438 vistas",
+   "label": "277.440 vistas/h",
+   "url": "https://www.youtube.com/watch?v=t6ySEQzL1yE",
+   "heat": 92
   },
   {
    "title": "Heidi Klum",
@@ -48,6 +40,14 @@
    "label": "+1375 %",
    "url": "https://es.wikipedia.org/wiki/Heidi_Klum",
    "heat": 82
+  },
+  {
+   "title": "Daddy Yankee and Diljit Dosanjh - POKITO  (Official Music Video)",
+   "source": "yt",
+   "meta": "Daddy Yankee - 24.822.346 vistas",
+   "label": "243.768 vistas/h",
+   "url": "https://www.youtube.com/watch?v=XO1h5G6xytU",
+   "heat": 81
   },
   {
    "title": "Valerio Lazarov",
@@ -98,14 +98,6 @@
    "heat": 55
   },
   {
-   "title": "Me Pasé Minecraft con el Mod de SUERTE",
-   "source": "yt",
-   "meta": "Rubius Z - 2.087.452 vistas",
-   "label": "161.003 vistas/h",
-   "url": "https://www.youtube.com/watch?v=dPbQ2Z12cis",
-   "heat": 54
-  },
-  {
    "title": "Diego Roberto Mendoza",
    "source": "wk",
    "meta": "8.132 visitas en un día",
@@ -114,12 +106,12 @@
    "heat": 53
   },
   {
-   "title": "Percy Jackson & the Olympians Season 3 | Trailer | Disney+",
+   "title": "Me Pasé Minecraft con el Mod de SUERTE",
    "source": "yt",
-   "meta": "Disney Plus - 1.926.869 vistas",
-   "label": "139.687 vistas/h",
-   "url": "https://www.youtube.com/watch?v=nD45l6hCyN8",
-   "heat": 46
+   "meta": "Rubius Z - 2.255.247 vistas",
+   "label": "141.982 vistas/h",
+   "url": "https://www.youtube.com/watch?v=dPbQ2Z12cis",
+   "heat": 47
   },
   {
    "title": "Blanca Portillo",
@@ -136,6 +128,14 @@
    "label": "+737 %",
    "url": "https://es.wikipedia.org/wiki/Santiago_Maratea",
    "heat": 44
+  },
+  {
+   "title": "Percy Jackson & the Olympians Season 3 | Trailer | Disney+",
+   "source": "yt",
+   "meta": "Disney Plus - 2.156.401 vistas",
+   "label": "129.026 vistas/h",
+   "url": "https://www.youtube.com/watch?v=nD45l6hCyN8",
+   "heat": 43
   },
   {
    "title": "Facundo Herrera",
@@ -164,80 +164,80 @@
   {
    "title": "Rockstar ha transformado Miami para GTA VI 🌴 - Miami Stories #1",
    "source": "yt",
-   "meta": "IlloJuan - 2.273.390 vistas",
-   "label": "66.908 vistas/h",
+   "meta": "IlloJuan - 2.308.311 vistas",
+   "label": "62.561 vistas/h",
    "url": "https://www.youtube.com/watch?v=r38HzMkc2PM",
-   "heat": 22
+   "heat": 21
+  },
+  {
+   "title": "Character Trailer - \"Mitya: Everything's in Order\" | Genshin Impact #Mitya #GenshinSnezhnaya",
+   "source": "yt",
+   "meta": "Genshin Impact - 286.319 vistas",
+   "label": "49.162 vistas/h",
+   "url": "https://www.youtube.com/watch?v=9OHKzmmq2e8",
+   "heat": 16
   },
   {
    "title": "PARADIXE (REMIX)",
    "source": "yt",
-   "meta": "Feid - Topic - 891.392 vistas",
-   "label": "27.124 vistas/h",
+   "meta": "Feid - Topic - 909.478 vistas",
+   "label": "25.417 vistas/h",
    "url": "https://www.youtube.com/watch?v=YXvFLBjTCQA",
-   "heat": 9
+   "heat": 8
   },
   {
    "title": "El ascenso y caída de BioWare",
    "source": "yt",
-   "meta": "BaityBait - 876.742 vistas",
-   "label": "23.832 vistas/h",
+   "meta": "BaityBait - 890.056 vistas",
+   "label": "22.416 vistas/h",
    "url": "https://www.youtube.com/watch?v=5ZSm3mSqcZw",
-   "heat": 8
-  },
-  {
-   "title": "Fortnite Treasure Hunters | One Piece Hybrid Trailer",
-   "source": "yt",
-   "meta": "Fortnite - 1.021.392 vistas",
-   "label": "21.873 vistas/h",
-   "url": "https://www.youtube.com/watch?v=rnjWNafJy8Q",
    "heat": 7
   },
   {
    "title": "Trailer final de Avengers Doomsday FECHA revelada, regreso Iron Man, preguntas y respuestas Doomsday",
    "source": "yt",
-   "meta": "Pelicomic - 528.837 vistas",
-   "label": "15.679 vistas/h",
+   "meta": "Pelicomic - 541.142 vistas",
+   "label": "14.766 vistas/h",
    "url": "https://www.youtube.com/watch?v=0iJ6ZAYnAQE",
    "heat": 5
   },
   {
    "title": "Pokémon Super L Ep.3 - DESPUÉS DE LO DE AYER... LLEGA EL HOY.",
    "source": "yt",
-   "meta": "Folagor03 - 209.928 vistas",
-   "label": "13.193 vistas/h",
+   "meta": "Folagor03 - 215.872 vistas",
+   "label": "11.464 vistas/h",
    "url": "https://www.youtube.com/watch?v=-rGqnM3By10",
    "heat": 4
   },
   {
    "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra)",
    "source": "yt",
-   "meta": "Hey! - 845.106 vistas",
-   "label": "10.445 vistas/h",
+   "meta": "Hey! - 857.704 vistas",
+   "label": "10.232 vistas/h",
    "url": "https://www.youtube.com/watch?v=834CCzOpJvw",
    "heat": 3
   },
   {
    "title": "BOOGEYMAN cap. 9 - YOLAMASCARA",
    "source": "yt",
-   "meta": "YOLAMASCARA - 18.816 vistas",
-   "label": "1.725 vistas/h",
+   "meta": "YOLAMASCARA - 20.986 vistas",
+   "label": "1.517 vistas/h",
    "url": "https://www.youtube.com/watch?v=w9ewWIsn14A",
    "heat": 1
   },
   {
    "title": "Josue Rarujo - Lejos de Mi (Video Oficial)",
    "source": "yt",
-   "meta": "JosueRarujoVEVO - 223.239 vistas",
-   "label": "2.049 vistas/h",
+   "meta": "JosueRarujoVEVO - 225.055 vistas",
+   "label": "2.012 vistas/h",
    "url": "https://www.youtube.com/watch?v=tA1QNxP5f_w",
    "heat": 1
   },
   {
    "title": "BALLISTIC Tráiler Oficial Español (2026) Lena Headey",
    "source": "yt",
-   "meta": "Trailers In Spanish - 12.331 vistas",
-   "label": "710 vistas/h",
+   "meta": "Trailers In Spanish - 12.795 vistas",
+   "label": "630 vistas/h",
    "url": "https://www.youtube.com/watch?v=_jazH6hlMfY",
    "heat": 0
   }
