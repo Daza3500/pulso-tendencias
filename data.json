@@ -1,123 +1,243 @@
 {
- "updated": "2026-11-03T03:43:18.020127+00:00",
+ "updated": "2026-11-03T06:54:43.105836+00:00",
  "items": [
   {
    "title": "Gus's Origin Story! (Brawl Stars Animation)",
    "source": "yt",
-   "meta": "Brawl Stars - 6.602.798 vistas",
-   "label": "334.922 vistas/h",
+   "meta": "Brawl Stars - 6.882.378 vistas",
+   "label": "300.479 vistas/h",
    "url": "https://www.youtube.com/watch?v=t6ySEQzL1yE",
    "heat": 100
   },
   {
    "title": "Call of Duty: Warzone | Hajin Conflict | Launch Trailer",
    "source": "yt",
-   "meta": "Call of Duty - 3.127.840 vistas",
-   "label": "266.945 vistas/h",
+   "meta": "Call of Duty - 4.462.410 vistas",
+   "label": "299.340 vistas/h",
    "url": "https://www.youtube.com/watch?v=iOfYGojxFE0",
-   "heat": 80
+   "heat": 100
+  },
+  {
+   "title": "Antonio Navarro Wolff",
+   "source": "wk",
+   "meta": "14.690 visitas en un día",
+   "label": "+1674 %",
+   "url": "https://es.wikipedia.org/wiki/Antonio_Navarro_Wolff",
+   "heat": 100
+  },
+  {
+   "title": "China Ansa",
+   "source": "wk",
+   "meta": "13.948 visitas en un día",
+   "label": "+1566 %",
+   "url": "https://es.wikipedia.org/wiki/China_Ansa",
+   "heat": 94
   },
   {
    "title": "Daddy Yankee and Diljit Dosanjh - POKITO  (Official Music Video)",
    "source": "yt",
-   "meta": "Daddy Yankee - 23.725.415 vistas",
-   "label": "247.866 vistas/h",
+   "meta": "Daddy Yankee - 24.303.626 vistas",
+   "label": "245.717 vistas/h",
    "url": "https://www.youtube.com/watch?v=XO1h5G6xytU",
-   "heat": 74
+   "heat": 82
+  },
+  {
+   "title": "Heidi Klum",
+   "source": "wk",
+   "meta": "20.537 visitas en un día",
+   "label": "+1375 %",
+   "url": "https://es.wikipedia.org/wiki/Heidi_Klum",
+   "heat": 82
+  },
+  {
+   "title": "Valerio Lazarov",
+   "source": "wk",
+   "meta": "11.313 visitas en un día",
+   "label": "+1266 %",
+   "url": "https://es.wikipedia.org/wiki/Valerio_Lazarov",
+   "heat": 76
+  },
+  {
+   "title": "Almudena Cid",
+   "source": "wk",
+   "meta": "10.969 visitas en un día",
+   "label": "+1225 %",
+   "url": "https://es.wikipedia.org/wiki/Almudena_Cid",
+   "heat": 73
+  },
+  {
+   "title": "Lucas Martínez Quarta",
+   "source": "wk",
+   "meta": "9.800 visitas en un día",
+   "label": "+1084 %",
+   "url": "https://es.wikipedia.org/wiki/Lucas_Mart%C3%ADnez_Quarta",
+   "heat": 65
+  },
+  {
+   "title": "Sergio Canales",
+   "source": "wk",
+   "meta": "9.670 visitas en un día",
+   "label": "+1068 %",
+   "url": "https://es.wikipedia.org/wiki/Sergio_Canales",
+   "heat": 64
+  },
+  {
+   "title": "Andrea Kimi Antonelli",
+   "source": "wk",
+   "meta": "27.348 visitas en un día",
+   "label": "+1003 %",
+   "url": "https://es.wikipedia.org/wiki/Andrea_Kimi_Antonelli",
+   "heat": 60
+  },
+  {
+   "title": "Blanca Fernández Ochoa",
+   "source": "wk",
+   "meta": "8.482 visitas en un día",
+   "label": "+924 %",
+   "url": "https://es.wikipedia.org/wiki/Blanca_Fern%C3%A1ndez_Ochoa",
+   "heat": 55
   },
   {
    "title": "Me Pasé Minecraft con el Mod de SUERTE",
    "source": "yt",
-   "meta": "Rubius Z - 1.707.897 vistas",
-   "label": "174.721 vistas/h",
+   "meta": "Rubius Z - 2.087.452 vistas",
+   "label": "161.003 vistas/h",
    "url": "https://www.youtube.com/watch?v=dPbQ2Z12cis",
-   "heat": 52
+   "heat": 54
+  },
+  {
+   "title": "Diego Roberto Mendoza",
+   "source": "wk",
+   "meta": "8.132 visitas en un día",
+   "label": "+882 %",
+   "url": "https://es.wikipedia.org/wiki/Diego_Roberto_Mendoza",
+   "heat": 53
   },
   {
    "title": "Percy Jackson & the Olympians Season 3 | Trailer | Disney+",
    "source": "yt",
-   "meta": "Disney Plus - 1.474.509 vistas",
-   "label": "139.054 vistas/h",
+   "meta": "Disney Plus - 1.926.869 vistas",
+   "label": "139.687 vistas/h",
    "url": "https://www.youtube.com/watch?v=nD45l6hCyN8",
-   "heat": 42
+   "heat": 46
+  },
+  {
+   "title": "Blanca Portillo",
+   "source": "wk",
+   "meta": "6.968 visitas en un día",
+   "label": "+742 %",
+   "url": "https://es.wikipedia.org/wiki/Blanca_Portillo",
+   "heat": 44
+  },
+  {
+   "title": "Santiago Maratea",
+   "source": "wk",
+   "meta": "6.931 visitas en un día",
+   "label": "+737 %",
+   "url": "https://es.wikipedia.org/wiki/Santiago_Maratea",
+   "heat": 44
+  },
+  {
+   "title": "Facundo Herrera",
+   "source": "wk",
+   "meta": "6.271 visitas en un día",
+   "label": "+657 %",
+   "url": "https://es.wikipedia.org/wiki/Facundo_Herrera",
+   "heat": 39
+  },
+  {
+   "title": "Max Verstappen",
+   "source": "wk",
+   "meta": "7.695 visitas en un día",
+   "label": "+651 %",
+   "url": "https://es.wikipedia.org/wiki/Max_Verstappen",
+   "heat": 39
+  },
+  {
+   "title": "Tom Kaulitz",
+   "source": "wk",
+   "meta": "6.138 visitas en un día",
+   "label": "+641 %",
+   "url": "https://es.wikipedia.org/wiki/Tom_Kaulitz",
+   "heat": 38
   },
   {
    "title": "Rockstar ha transformado Miami para GTA VI 🌴 - Miami Stories #1",
    "source": "yt",
-   "meta": "IlloJuan - 2.210.843 vistas",
-   "label": "71.809 vistas/h",
+   "meta": "IlloJuan - 2.273.390 vistas",
+   "label": "66.908 vistas/h",
    "url": "https://www.youtube.com/watch?v=r38HzMkc2PM",
-   "heat": 21
+   "heat": 22
   },
   {
    "title": "PARADIXE (REMIX)",
    "source": "yt",
-   "meta": "Feid - Topic - 844.036 vistas",
-   "label": "28.444 vistas/h",
+   "meta": "Feid - Topic - 891.392 vistas",
+   "label": "27.124 vistas/h",
    "url": "https://www.youtube.com/watch?v=YXvFLBjTCQA",
-   "heat": 8
+   "heat": 9
   },
   {
    "title": "El ascenso y caída de BioWare",
    "source": "yt",
-   "meta": "BaityBait - 855.799 vistas",
-   "label": "25.472 vistas/h",
+   "meta": "BaityBait - 876.742 vistas",
+   "label": "23.832 vistas/h",
    "url": "https://www.youtube.com/watch?v=5ZSm3mSqcZw",
    "heat": 8
   },
   {
    "title": "Fortnite Treasure Hunters | One Piece Hybrid Trailer",
    "source": "yt",
-   "meta": "Fortnite - 1.014.410 vistas",
-   "label": "23.316 vistas/h",
+   "meta": "Fortnite - 1.021.392 vistas",
+   "label": "21.873 vistas/h",
    "url": "https://www.youtube.com/watch?v=rnjWNafJy8Q",
    "heat": 7
   },
   {
    "title": "Trailer final de Avengers Doomsday FECHA revelada, regreso Iron Man, preguntas y respuestas Doomsday",
    "source": "yt",
-   "meta": "Pelicomic - 500.974 vistas",
-   "label": "16.405 vistas/h",
+   "meta": "Pelicomic - 528.837 vistas",
+   "label": "15.679 vistas/h",
    "url": "https://www.youtube.com/watch?v=0iJ6ZAYnAQE",
    "heat": 5
   },
   {
    "title": "Pokémon Super L Ep.3 - DESPUÉS DE LO DE AYER... LLEGA EL HOY.",
    "source": "yt",
-   "meta": "Folagor03 - 198.244 vistas",
-   "label": "15.584 vistas/h",
+   "meta": "Folagor03 - 209.928 vistas",
+   "label": "13.193 vistas/h",
    "url": "https://www.youtube.com/watch?v=-rGqnM3By10",
-   "heat": 5
+   "heat": 4
   },
   {
    "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra)",
    "source": "yt",
-   "meta": "Hey! - 799.748 vistas",
-   "label": "10.290 vistas/h",
+   "meta": "Hey! - 845.106 vistas",
+   "label": "10.445 vistas/h",
    "url": "https://www.youtube.com/watch?v=834CCzOpJvw",
    "heat": 3
   },
   {
    "title": "BOOGEYMAN cap. 9 - YOLAMASCARA",
    "source": "yt",
-   "meta": "YOLAMASCARA - 17.570 vistas",
-   "label": "2.276 vistas/h",
+   "meta": "YOLAMASCARA - 18.816 vistas",
+   "label": "1.725 vistas/h",
    "url": "https://www.youtube.com/watch?v=w9ewWIsn14A",
    "heat": 1
   },
   {
    "title": "Josue Rarujo - Lejos de Mi (Video Oficial)",
    "source": "yt",
-   "meta": "JosueRarujoVEVO - 222.570 vistas",
-   "label": "2.105 vistas/h",
+   "meta": "JosueRarujoVEVO - 223.239 vistas",
+   "label": "2.049 vistas/h",
    "url": "https://www.youtube.com/watch?v=tA1QNxP5f_w",
    "heat": 1
   },
   {
    "title": "BALLISTIC Tráiler Oficial Español (2026) Lena Headey",
    "source": "yt",
-   "meta": "Trailers In Spanish - 11.488 vistas",
-   "label": "810 vistas/h",
+   "meta": "Trailers In Spanish - 12.331 vistas",
+   "label": "710 vistas/h",
    "url": "https://www.youtube.com/watch?v=_jazH6hlMfY",
    "heat": 0
   }
