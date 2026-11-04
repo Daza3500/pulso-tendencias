@@ -1,125 +1,245 @@
 {
- "updated": "2026-11-03T21:38:02.091511+00:00",
+ "updated": "2026-11-04T00:46:22.097376+00:00",
  "items": [
   {
    "title": "Daddy Yankee and Diljit Dosanjh - POKITO  (Official Music Video)",
    "source": "yt",
-   "meta": "Daddy Yankee - 27.411.268 vistas",
-   "label": "241.231 vistas/h",
+   "meta": "Daddy Yankee - 27.963.172 vistas",
+   "label": "239.472 vistas/h",
    "url": "https://www.youtube.com/watch?v=XO1h5G6xytU",
+   "heat": 100
+  },
+  {
+   "title": "Gonzalo Miró",
+   "source": "wk",
+   "meta": "19.495 visitas en un día",
+   "label": "+1967 %",
+   "url": "https://es.wikipedia.org/wiki/Gonzalo_Mir%C3%B3",
    "heat": 100
   },
   {
    "title": "Gus's Origin Story! (Brawl Stars Animation)",
    "source": "yt",
-   "meta": "Brawl Stars - 8.474.401 vistas",
-   "label": "225.223 vistas/h",
+   "meta": "Brawl Stars - 8.683.515 vistas",
+   "label": "213.010 vistas/h",
    "url": "https://www.youtube.com/watch?v=t6ySEQzL1yE",
-   "heat": 93
+   "heat": 89
+  },
+  {
+   "title": "Jesús de Miguel Alameda",
+   "source": "wk",
+   "meta": "16.249 visitas en un día",
+   "label": "+1623 %",
+   "url": "https://es.wikipedia.org/wiki/Jes%C3%BAs_de_Miguel_Alameda",
+   "heat": 83
+  },
+  {
+   "title": "Pilar Miró",
+   "source": "wk",
+   "meta": "12.473 visitas en un día",
+   "label": "+1223 %",
+   "url": "https://es.wikipedia.org/wiki/Pilar_Mir%C3%B3",
+   "heat": 62
   },
   {
    "title": "Percy Jackson & the Olympians Season 3 | Trailer | Disney+",
    "source": "yt",
-   "meta": "Disney Plus - 3.363.081 vistas",
-   "label": "117.936 vistas/h",
+   "meta": "Disney Plus - 3.790.330 vistas",
+   "label": "119.738 vistas/h",
    "url": "https://www.youtube.com/watch?v=nD45l6hCyN8",
-   "heat": 49
+   "heat": 50
   },
   {
    "title": "Me Pasé Minecraft con el Mod de SUERTE",
    "source": "yt",
-   "meta": "Rubius Z - 2.815.894 vistas",
-   "label": "101.703 vistas/h",
+   "meta": "Rubius Z - 2.992.359 vistas",
+   "label": "97.072 vistas/h",
    "url": "https://www.youtube.com/watch?v=dPbQ2Z12cis",
-   "heat": 42
+   "heat": 41
+  },
+  {
+   "title": "Jesús Owono",
+   "source": "wk",
+   "meta": "8.523 visitas en un día",
+   "label": "+804 %",
+   "url": "https://es.wikipedia.org/wiki/Jes%C3%BAs_Owono",
+   "heat": 41
+  },
+  {
+   "title": "ESTAFÉ A FAMOSOS PARA HACERME MILLONARIO",
+   "source": "yt",
+   "meta": "Auron - 462.180 vistas",
+   "label": "73.683 vistas/h",
+   "url": "https://www.youtube.com/watch?v=2AY3u6LkKW8",
+   "heat": 31
+  },
+  {
+   "title": "Pepe Mel",
+   "source": "wk",
+   "meta": "6.452 visitas en un día",
+   "label": "+584 %",
+   "url": "https://es.wikipedia.org/wiki/Pepe_Mel",
+   "heat": 30
+  },
+  {
+   "title": "Club Atlético Nueva Chicago",
+   "source": "wk",
+   "meta": "5.758 visitas en un día",
+   "label": "+511 %",
+   "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_Nueva_Chicago",
+   "heat": 26
+  },
+  {
+   "title": "Yaxel Lendeborg",
+   "source": "wk",
+   "meta": "5.655 visitas en un día",
+   "label": "+500 %",
+   "url": "https://es.wikipedia.org/wiki/Yaxel_Lendeborg",
+   "heat": 25
+  },
+  {
+   "title": "Humphrey Bogart",
+   "source": "wk",
+   "meta": "5.575 visitas en un día",
+   "label": "+491 %",
+   "url": "https://es.wikipedia.org/wiki/Humphrey_Bogart",
+   "heat": 25
+  },
+  {
+   "title": "Jackson Martínez",
+   "source": "wk",
+   "meta": "5.525 visitas en un día",
+   "label": "+486 %",
+   "url": "https://es.wikipedia.org/wiki/Jackson_Mart%C3%ADnez",
+   "heat": 25
+  },
+  {
+   "title": "Silvana Guerrero",
+   "source": "wk",
+   "meta": "5.331 visitas en un día",
+   "label": "+465 %",
+   "url": "https://es.wikipedia.org/wiki/Silvana_Guerrero",
+   "heat": 24
+  },
+  {
+   "title": "Learjet 60",
+   "source": "wk",
+   "meta": "11.603 visitas en un día",
+   "label": "+465 %",
+   "url": "https://es.wikipedia.org/wiki/Learjet_60",
+   "heat": 24
+  },
+  {
+   "title": "Alanys Lagos",
+   "source": "wk",
+   "meta": "7.126 visitas en un día",
+   "label": "+400 %",
+   "url": "https://es.wikipedia.org/wiki/Alanys_Lagos",
+   "heat": 20
+  },
+  {
+   "title": "XBOX SERIES X-BITE | Sweepstakes Trailer",
+   "source": "yt",
+   "meta": "XBOX - 326.605 vistas",
+   "label": "42.049 vistas/h",
+   "url": "https://www.youtube.com/watch?v=YJptn7J1xeI",
+   "heat": 18
   },
   {
    "title": "Character Trailer - \"Mitya: Everything's in Order\" | Genshin Impact #Mitya #GenshinSnezhnaya",
    "source": "yt",
-   "meta": "Genshin Impact - 635.498 vistas",
-   "label": "36.052 vistas/h",
+   "meta": "Genshin Impact - 680.150 vistas",
+   "label": "32.752 vistas/h",
    "url": "https://www.youtube.com/watch?v=9OHKzmmq2e8",
-   "heat": 15
+   "heat": 14
   },
   {
-   "title": "R.E.P.O. pero entramos a los BACKROOMS ",
-   "source": "yt",
-   "meta": "Auron - 803.700 vistas",
-   "label": "29.642 vistas/h",
-   "url": "https://www.youtube.com/watch?v=0Spdse0sc9A",
+   "title": "WhatsApp",
+   "source": "wk",
+   "meta": "11.686 visitas en un día",
+   "label": "+255 %",
+   "url": "https://es.wikipedia.org/wiki/WhatsApp",
+   "heat": 13
+  },
+  {
+   "title": "La venganza del Charro Negro",
+   "source": "wk",
+   "meta": "5.434 visitas en un día",
+   "label": "+229 %",
+   "url": "https://es.wikipedia.org/wiki/La_venganza_del_Charro_Negro",
    "heat": 12
   },
   {
    "title": "PARADIXE (REMIX)",
    "source": "yt",
-   "meta": "Feid - Topic - 1.117.159 vistas",
-   "label": "23.477 vistas/h",
+   "meta": "Feid - Topic - 1.182.272 vistas",
+   "label": "23.307 vistas/h",
    "url": "https://www.youtube.com/watch?v=YXvFLBjTCQA",
+   "heat": 10
+  },
+  {
+   "title": "Guild Wars Afterlife Announcement Trailer",
+   "source": "yt",
+   "meta": "Guild Wars - 164.286 vistas",
+   "label": "24.336 vistas/h",
+   "url": "https://www.youtube.com/watch?v=yaHUtkayKzk",
+   "heat": 10
+  },
+  {
+   "title": "Clara Montes",
+   "source": "wk",
+   "meta": "6.382 visitas en un día",
+   "label": "+188 %",
+   "url": "https://es.wikipedia.org/wiki/Clara_Montes",
    "heat": 10
   },
   {
    "title": "Pokémon Super L Ep.4 - EL GOD OF LOCKES. NADA MÁS QUE DECIR.",
    "source": "yt",
-   "meta": "Folagor03 - 114.681 vistas",
-   "label": "18.724 vistas/h",
+   "meta": "Folagor03 - 159.946 vistas",
+   "label": "17.266 vistas/h",
    "url": "https://www.youtube.com/watch?v=r8J_ZS9blnw",
-   "heat": 8
-  },
-  {
-   "title": "Trailer final de Avengers Doomsday FECHA revelada, regreso Iron Man, preguntas y respuestas Doomsday",
-   "source": "yt",
-   "meta": "Pelicomic - 591.096 vistas",
-   "label": "12.200 vistas/h",
-   "url": "https://www.youtube.com/watch?v=0iJ6ZAYnAQE",
-   "heat": 5
-  },
-  {
-   "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra)",
-   "source": "yt",
-   "meta": "Hey! - 990.527 vistas",
-   "label": "10.358 vistas/h",
-   "url": "https://www.youtube.com/watch?v=834CCzOpJvw",
-   "heat": 4
+   "heat": 7
   },
   {
    "title": "EL MEJOR TORNEO DE CLASH ROYALE DE LA HISTORIA",
    "source": "yt",
-   "meta": "MrGrefg - 271.656 vistas",
-   "label": "10.394 vistas/h",
+   "meta": "MrGrefg - 290.913 vistas",
+   "label": "9.937 vistas/h",
    "url": "https://www.youtube.com/watch?v=cKsHcND-aY0",
    "heat": 4
   },
   {
    "title": "BOOGEYMAN cap. 9 - YOLAMASCARA",
    "source": "yt",
-   "meta": "YOLAMASCARA - 37.811 vistas",
-   "label": "1.475 vistas/h",
+   "meta": "YOLAMASCARA - 42.215 vistas",
+   "label": "1.467 vistas/h",
    "url": "https://www.youtube.com/watch?v=w9ewWIsn14A",
    "heat": 1
   },
   {
    "title": "El nuevo teaser de Elder Scrolls VI Sentinel es MUY preocupante",
    "source": "yt",
-   "meta": "Chicocartera - 11.517 vistas",
-   "label": "2.288 vistas/h",
+   "meta": "Chicocartera - 17.614 vistas",
+   "label": "2.155 vistas/h",
    "url": "https://www.youtube.com/watch?v=a0JJKaDHO_k",
    "heat": 1
   },
   {
    "title": "Feid, El Americano 4KT, Omar Courtz & Pirlo - PARADIXE REMIX ft. Myke Towers",
    "source": "yt",
-   "meta": "LatinHype - 41.732 vistas",
-   "label": "1.889 vistas/h",
+   "meta": "LatinHype - 55.676 vistas",
+   "label": "2.206 vistas/h",
    "url": "https://www.youtube.com/watch?v=FyXlqEH8WfQ",
    "heat": 1
   },
   {
-   "title": "BALLISTIC Tráiler Oficial Español (2026) Lena Headey",
+   "title": "FOYONE - POSESION",
    "source": "yt",
-   "meta": "Trailers In Spanish - 14.665 vistas",
-   "label": "457 vistas/h",
-   "url": "https://www.youtube.com/watch?v=_jazH6hlMfY",
-   "heat": 0
+   "meta": "FOYONE - 16.684 vistas",
+   "label": "3.097 vistas/h",
+   "url": "https://www.youtube.com/watch?v=-a1fjXfnjb8",
+   "heat": 1
   }
  ]
 }
