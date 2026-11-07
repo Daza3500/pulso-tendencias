@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T17:33:37.989822+00:00",
+ "updated": "2026-11-07T21:33:47.935025+00:00",
  "items": [
   {
    "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer #2 | Netflix",
    "source": "yt",
-   "meta": "Netflix - 4.643.095 vistas",
-   "label": "162.575 vistas/h",
+   "meta": "Netflix - 5.046.471 vistas",
+   "label": "154.978 vistas/h",
    "url": "https://www.youtube.com/watch?v=fJH-wfSXnWg",
    "heat": 100
   },
@@ -24,14 +24,6 @@
    "label": "+1677 %",
    "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Alicia_Delgado",
    "heat": 62
-  },
-  {
-   "title": "GODZILLA MINUS ZERO | Official Trailer 3 - NOW PLAYING",
-   "source": "yt",
-   "meta": "GODZILLA OFFICIAL by TOHO - 4.283.855 vistas",
-   "label": "88.232 vistas/h",
-   "url": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
-   "heat": 54
   },
   {
    "title": "Russell Brand",
@@ -76,10 +68,18 @@
   {
    "title": "REVIVÍ MI INFANCIA | Zelda Ocarina of Time REMAKE",
    "source": "yt",
-   "meta": "Rubius Z - 2.505.278 vistas",
-   "label": "54.837 vistas/h",
+   "meta": "Rubius Z - 2.658.444 vistas",
+   "label": "53.502 vistas/h",
    "url": "https://www.youtube.com/watch?v=D8uGXMzsuuw",
-   "heat": 34
+   "heat": 35
+  },
+  {
+   "title": "ME HAGO MILLONARIO ESTAFANDO A LA GENTE | Scam With Friends",
+   "source": "yt",
+   "meta": "Iker Unzu - 332.930 vistas",
+   "label": "50.793 vistas/h",
+   "url": "https://www.youtube.com/watch?v=zgmBJpD0Ts4",
+   "heat": 33
   },
   {
    "title": "Francisco Huaiquipán",
@@ -92,10 +92,10 @@
   {
    "title": "GREFG Y RUBIUS BUSCAN EL ONE PIECE DE FORTNITE",
    "source": "yt",
-   "meta": "TheGrefg - 2.317.898 vistas",
-   "label": "50.456 vistas/h",
+   "meta": "TheGrefg - 2.477.306 vistas",
+   "label": "49.604 vistas/h",
    "url": "https://www.youtube.com/watch?v=g4kI6B5dwco",
-   "heat": 31
+   "heat": 32
   },
   {
    "title": "El Gran Wyoming",
@@ -130,14 +130,6 @@
    "heat": 26
   },
   {
-   "title": "ME HAGO MILLONARIO ESTAFANDO A LA GENTE | Scam With Friends",
-   "source": "yt",
-   "meta": "Iker Unzu - 100.039 vistas",
-   "label": "39.202 vistas/h",
-   "url": "https://www.youtube.com/watch?v=zgmBJpD0Ts4",
-   "heat": 24
-  },
-  {
    "title": "The Rolling Stones",
    "source": "wk",
    "meta": "8.311 visitas en un día",
@@ -156,18 +148,10 @@
   {
    "title": "LAJA x ANUEL AA - TUSSI (Video Oficial)",
    "source": "yt",
-   "meta": "LAJA - 1.547.253 vistas",
-   "label": "36.356 vistas/h",
+   "meta": "LAJA - 1.679.584 vistas",
+   "label": "36.072 vistas/h",
    "url": "https://www.youtube.com/watch?v=T0rVuheJOp8",
-   "heat": 22
-  },
-  {
-   "title": "#WORLDS2026 | T1 vs KC | HA LLEGADO EL DÍA | FAKER TRÁELA A CASA | SOMOS COREANOS | HISTORIA",
-   "source": "yt",
-   "meta": "IbaiExtra - 534.627 vistas",
-   "label": "36.387 vistas/h",
-   "url": "https://www.youtube.com/watch?v=d2QwxRKY4MQ",
-   "heat": 22
+   "heat": 23
   },
   {
    "title": "Partido Liberal Radical Auténtico",
@@ -178,66 +162,82 @@
    "heat": 21
   },
   {
+   "title": "#WORLDS2026 | T1 vs KC | HA LLEGADO EL DÍA | FAKER TRÁELA A CASA | SOMOS COREANOS | HISTORIA",
+   "source": "yt",
+   "meta": "IbaiExtra - 540.028 vistas",
+   "label": "28.885 vistas/h",
+   "url": "https://www.youtube.com/watch?v=d2QwxRKY4MQ",
+   "heat": 19
+  },
+  {
+   "title": "Pokémon Super L Ep.8 - REMONTADA AL LOCKE",
+   "source": "yt",
+   "meta": "Folagor03 - 108.170 vistas",
+   "label": "17.148 vistas/h",
+   "url": "https://www.youtube.com/watch?v=kwgDfjKkhok",
+   "heat": 11
+  },
+  {
+   "title": "Yailin La Mas Viral - Que Me Guaye (Video Oficial)",
+   "source": "yt",
+   "meta": "Yailin La Mas Viral - 454.041 vistas",
+   "label": "17.763 vistas/h",
+   "url": "https://www.youtube.com/watch?v=WAarB3uqppQ",
+   "heat": 11
+  },
+  {
    "title": "C. Tangana, Agorazein - Milko Freestyle (Video Oficial)",
    "source": "yt",
-   "meta": "CTanganaVEVO - 1.342.984 vistas",
-   "label": "14.830 vistas/h",
+   "meta": "CTanganaVEVO - 1.387.637 vistas",
+   "label": "14.674 vistas/h",
    "url": "https://www.youtube.com/watch?v=DttlD1UaJu0",
    "heat": 9
   },
   {
+   "title": "Douzi  - Matfahmnach  دوزي - ماتفهمناش(Official Music Video)",
+   "source": "yt",
+   "meta": "Douzi دوزي - 282.283 vistas",
+   "label": "11.384 vistas/h",
+   "url": "https://www.youtube.com/watch?v=Ryh8hyh8wkc",
+   "heat": 7
+  },
+  {
    "title": "ASA Giganotosaurus TLC Trailer",
    "source": "yt",
-   "meta": "ARK: Survival Ascended - 150.534 vistas",
-   "label": "9.182 vistas/h",
+   "meta": "ARK: Survival Ascended - 171.654 vistas",
+   "label": "8.415 vistas/h",
    "url": "https://www.youtube.com/watch?v=1_oOyk-h80M",
-   "heat": 6
-  },
-  {
-   "title": "Pokémon Super L Ep.7 - TENEMOS QUE HABLAR",
-   "source": "yt",
-   "meta": "Folagor03 - 207.319 vistas",
-   "label": "7.963 vistas/h",
-   "url": "https://www.youtube.com/watch?v=uoYi8jKTvEo",
    "heat": 5
-  },
-  {
-   "title": "DONDE ESTAN? cap. 11 - YOLAMASCARA FT 50 CENT",
-   "source": "yt",
-   "meta": "YOLAMASCARA - 389.591 vistas",
-   "label": "4.302 vistas/h",
-   "url": "https://www.youtube.com/watch?v=3ZPHmzC7F9Q",
-   "heat": 3
   },
   {
    "title": "Agorazein - King Kong (Vídeo Oficial)",
    "source": "yt",
-   "meta": "AgzTv - 121.736 vistas",
-   "label": "2.860 vistas/h",
+   "meta": "AgzTv - 129.734 vistas",
+   "label": "2.786 vistas/h",
    "url": "https://www.youtube.com/watch?v=gx9pnkjXEBc",
    "heat": 2
   },
   {
    "title": "SHARINGAN",
    "source": "yt",
-   "meta": "La Pantera - Topic - 72.405 vistas",
-   "label": "1.701 vistas/h",
+   "meta": "La Pantera - Topic - 80.202 vistas",
+   "label": "1.722 vistas/h",
    "url": "https://www.youtube.com/watch?v=ExX--k9PqxY",
    "heat": 1
   },
   {
-   "title": "SPACE HAMMU - Ten Cuidao (Videoclip oficial)",
+   "title": "LOS ANILLOS DE PODER T3: Un tráiler para engatusarlos a todos",
    "source": "yt",
-   "meta": "Space Hammu - 94.266 vistas",
-   "label": "2.115 vistas/h",
-   "url": "https://www.youtube.com/watch?v=zwhzcnKyou0",
+   "meta": "El Chou de Gabriel Incertis - 8.230 vistas",
+   "label": "1.804 vistas/h",
+   "url": "https://www.youtube.com/watch?v=skJSfjtPU0o",
    "heat": 1
   },
   {
    "title": "RAMAYANA: EL NACIMIENTO DE UNA LEYENDA | Tráiler oficial | Exclusivamente en cines 6 de noviembre.",
    "source": "yt",
-   "meta": "Sony Pictures España - 217.645 vistas",
-   "label": "596 vistas/h",
+   "meta": "Sony Pictures España - 221.638 vistas",
+   "label": "601 vistas/h",
    "url": "https://www.youtube.com/watch?v=RD465JIBokU",
    "heat": 0
   }
