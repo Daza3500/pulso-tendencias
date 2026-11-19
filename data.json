@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-19T02:20:42.688846+00:00",
+ "updated": "2026-11-19T11:15:31.061461+00:00",
  "items": [
   {
-   "title": "GTA 6 | EPISODIO 1 | PRIMER DIRECTO - DjMaRiiO",
+   "title": "Avengers: Doomsday | The Return | In Theaters December 18",
    "source": "yt",
-   "meta": "DjMaRiiO - 5.666.206 vistas",
-   "label": "5.666.206 vistas/h",
-   "url": "https://www.youtube.com/watch?v=biUVW6Q0f2g",
+   "meta": "Marvel Entertainment - 5.938.558 vistas",
+   "label": "325.252 vistas/h",
+   "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
    "heat": 100
   },
   {
@@ -26,12 +26,28 @@
    "heat": 66
   },
   {
+   "title": "MI PRIMERA VEZ JUGANDO A GTA 6",
+   "source": "yt",
+   "meta": "DaniRep | +6 Vídeos Diarios De GTA 5 Online! - 2.209.232 vistas",
+   "label": "200.273 vistas/h",
+   "url": "https://www.youtube.com/watch?v=ftaKaYHYL1I",
+   "heat": 62
+  },
+  {
    "title": "Emilia Mernes",
    "source": "wk",
    "meta": "18.968 visitas en un día",
    "label": "+2017 %",
    "url": "https://es.wikipedia.org/wiki/Emilia_Mernes",
    "heat": 61
+  },
+  {
+   "title": "1 HORA de MUNDO ABIERTO en GTA 6 (Sin Spoilers)",
+   "source": "yt",
+   "meta": "Willyrex - 2.351.831 vistas",
+   "label": "104.757 vistas/h",
+   "url": "https://www.youtube.com/watch?v=MPZ45FW1u3k",
+   "heat": 32
   },
   {
    "title": "Florentino Fernández",
@@ -48,6 +64,14 @@
    "label": "+652 %",
    "url": "https://es.wikipedia.org/wiki/Cayetano_Mart%C3%ADnez_de_Irujo",
    "heat": 20
+  },
+  {
+   "title": "MI NUEVO SET-UP - TheGrefg",
+   "source": "yt",
+   "meta": "TheGrefg - 2.069.339 vistas",
+   "label": "58.181 vistas/h",
+   "url": "https://www.youtube.com/watch?v=HskjZ8G1gH8",
+   "heat": 18
   },
   {
    "title": "Isabel de Hungría",
@@ -82,14 +106,6 @@
    "heat": 16
   },
   {
-   "title": "Yo estuve aquí 💖 - Grand Theft Auto VI #1.5",
-   "source": "yt",
-   "meta": "IlloJuan - 1.290.326 vistas",
-   "label": "859.343 vistas/h",
-   "url": "https://www.youtube.com/watch?v=Cjc_JRuutaw",
-   "heat": 15
-  },
-  {
    "title": "Román Vega",
    "source": "wk",
    "meta": "5.352 visitas en un día",
@@ -98,12 +114,60 @@
    "heat": 15
   },
   {
-   "title": "Avengers: Doomsday | The Return | In Theaters December 18",
+   "title": "GTA 6 - ANÁLISIS SIN SPOILERS Y CON GAMEPLAY EXCLUSIVO: Lo hemos terminado y es una auténtica locura",
    "source": "yt",
-   "meta": "Marvel Entertainment - 4.454.531 vistas",
-   "label": "476.682 vistas/h",
-   "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
-   "heat": 8
+   "meta": "Vandal - 1.084.717 vistas",
+   "label": "44.727 vistas/h",
+   "url": "https://www.youtube.com/watch?v=iQlqF0_zDJQ",
+   "heat": 14
+  },
+  {
+   "title": "La historia no contada de Rockstar",
+   "source": "yt",
+   "meta": "BaityBait - 775.480 vistas",
+   "label": "40.157 vistas/h",
+   "url": "https://www.youtube.com/watch?v=RDGReRPusEM",
+   "heat": 12
+  },
+  {
+   "title": "AVENGERS 5: DOOMSDAY Official “Doctor Doom” Special Look (2026) Marvel",
+   "source": "yt",
+   "meta": "KinoCheck.com - 619.615 vistas",
+   "label": "34.480 vistas/h",
+   "url": "https://www.youtube.com/watch?v=2tHNP_le1gM",
+   "heat": 11
+  },
+  {
+   "title": "LITTLEFOOT | Official Trailer | Land Before Time Reimagining",
+   "source": "yt",
+   "meta": "Joey Lever - 485.092 vistas",
+   "label": "23.897 vistas/h",
+   "url": "https://www.youtube.com/watch?v=cJRsJQMAVYY",
+   "heat": 7
+  },
+  {
+   "title": "Bruce Dickinson - Speaking In Tongues (Official Video)",
+   "source": "yt",
+   "meta": "Bruce Dickinson - 480.153 vistas",
+   "label": "23.511 vistas/h",
+   "url": "https://www.youtube.com/watch?v=a6fnB86xlyM",
+   "heat": 7
+  },
+  {
+   "title": "Hágalo (Remix) - Køddy G ❌ Ryan Castro (Video Oficial)",
+   "source": "yt",
+   "meta": "KØDDY-G - 749.179 vistas",
+   "label": "20.663 vistas/h",
+   "url": "https://www.youtube.com/watch?v=J-9EeAHWlVA",
+   "heat": 6
+  },
+  {
+   "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra/Lyrics)",
+   "source": "yt",
+   "meta": "7clouds Spain - 1.299.145 vistas",
+   "label": "19.032 vistas/h",
+   "url": "https://www.youtube.com/watch?v=hQ8HPxk4AkA",
+   "heat": 6
   },
   {
    "title": "Nicolás Occhiato",
@@ -120,14 +184,6 @@
    "label": "+117 %",
    "url": "https://es.wikipedia.org/wiki/Carlos_Franganillo",
    "heat": 4
-  },
-  {
-   "title": "1 HORA de MUNDO ABIERTO en GTA 6 (Sin Spoilers)",
-   "source": "yt",
-   "meta": "Willyrex - 1.926.246 vistas",
-   "label": "142.296 vistas/h",
-   "url": "https://www.youtube.com/watch?v=MPZ45FW1u3k",
-   "heat": 3
   },
   {
    "title": "Aníbal Gordon",
@@ -154,90 +210,34 @@
    "heat": 2
   },
   {
-   "title": "LITTLEFOOT | Official Trailer | Land Before Time Reimagining",
+   "title": "Grand Theft Auto VI - Tráiler funciones de PS5 | PlayStation España",
    "source": "yt",
-   "meta": "Joey Lever - 357.210 vistas",
-   "label": "31.373 vistas/h",
-   "url": "https://www.youtube.com/watch?v=cJRsJQMAVYY",
-   "heat": 1
-  },
-  {
-   "title": "AVENGERS 5: DOOMSDAY Official “Doctor Doom” Special Look (2026) Marvel",
-   "source": "yt",
-   "meta": "KinoCheck.com - 472.563 vistas",
-   "label": "52.177 vistas/h",
-   "url": "https://www.youtube.com/watch?v=2tHNP_le1gM",
-   "heat": 1
-  },
-  {
-   "title": "MI NUEVO SET-UP - TheGrefg",
-   "source": "yt",
-   "meta": "TheGrefg - 1.962.871 vistas",
-   "label": "73.644 vistas/h",
-   "url": "https://www.youtube.com/watch?v=HskjZ8G1gH8",
-   "heat": 1
-  },
-  {
-   "title": "GTA 6 - ANÁLISIS SIN SPOILERS Y CON GAMEPLAY EXCLUSIVO: Lo hemos terminado y es una auténtica locura",
-   "source": "yt",
-   "meta": "Vandal - 968.487 vistas",
-   "label": "63.141 vistas/h",
-   "url": "https://www.youtube.com/watch?v=iQlqF0_zDJQ",
+   "meta": "PlayStation España - 178.512 vistas",
+   "label": "2.468 vistas/h",
+   "url": "https://www.youtube.com/watch?v=xCG_Ie1QWvA",
    "heat": 1
   },
   {
    "title": "Diego 900 - BFF (Video Oficial)",
    "source": "yt",
-   "meta": "Diego 900 - 51.048 vistas",
-   "label": "1.578 vistas/h",
+   "meta": "Diego 900 - 53.985 vistas",
+   "label": "1.308 vistas/h",
    "url": "https://www.youtube.com/watch?v=STsCqYKkhqs",
-   "heat": 0
-  },
-  {
-   "title": "Hágalo (Remix) - Køddy G ❌ Ryan Castro (Video Oficial)",
-   "source": "yt",
-   "meta": "KØDDY-G - 639.875 vistas",
-   "label": "23.402 vistas/h",
-   "url": "https://www.youtube.com/watch?v=J-9EeAHWlVA",
-   "heat": 0
-  },
-  {
-   "title": "KAROL G, Judeline, rusowsky - BbY WOW (Letra/Lyrics)",
-   "source": "yt",
-   "meta": "7clouds Spain - 1.115.730 vistas",
-   "label": "18.800 vistas/h",
-   "url": "https://www.youtube.com/watch?v=hQ8HPxk4AkA",
-   "heat": 0
-  },
-  {
-   "title": "Grand Theft Auto VI - Tráiler funciones de PS5 | PlayStation España",
-   "source": "yt",
-   "meta": "PlayStation España - 175.890 vistas",
-   "label": "2.773 vistas/h",
-   "url": "https://www.youtube.com/watch?v=xCG_Ie1QWvA",
-   "heat": 0
-  },
-  {
-   "title": "LIL NAAY - DIOS PRIMERO (VIDEO OFICIAL)",
-   "source": "yt",
-   "meta": "Lil Naay - 539.754 vistas",
-   "label": "12.006 vistas/h",
-   "url": "https://www.youtube.com/watch?v=gTid-_1BWcg",
    "heat": 0
   },
   {
    "title": "Galicia mágica",
    "source": "yt",
-   "meta": "@rlu69musicIA - Topic - 15.248 vistas",
-   "label": "119 vistas/h",
+   "meta": "@rlu69musicIA - Topic - 19.114 vistas",
+   "label": "139 vistas/h",
    "url": "https://www.youtube.com/watch?v=Rg53EahKwW8",
    "heat": 0
   },
   {
    "title": "El Director - Trailer de la Película",
    "source": "yt",
-   "meta": "El Director - David Jiménez  - 70.991 vistas",
-   "label": "1.259 vistas/h",
+   "meta": "El Director - David Jiménez  - 72.784 vistas",
+   "label": "1.115 vistas/h",
    "url": "https://www.youtube.com/watch?v=ORXNiBTK5rc",
    "heat": 0
   }
