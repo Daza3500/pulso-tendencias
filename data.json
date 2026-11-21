@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T01:59:48.401309+00:00",
+ "updated": "2026-11-21T10:44:18.317943+00:00",
  "items": [
   {
    "title": "Anuel AA | SE TOCO EL T*TITO CON MI GL*CK (Video Oficial)",
    "source": "yt",
-   "meta": "Anuel AA - 944.075 vistas",
-   "label": "183.938 vistas/h",
+   "meta": "Anuel AA - 2.062.223 vistas",
+   "label": "148.636 vistas/h",
    "url": "https://www.youtube.com/watch?v=1lOvAvBlzSM",
    "heat": 100
   },
@@ -20,10 +20,10 @@
   {
    "title": "Avengers: Doomsday | The Return | In Theaters December 18",
    "source": "yt",
-   "meta": "Marvel Entertainment - 7.741.394 vistas",
-   "label": "135.822 vistas/h",
+   "meta": "Marvel Entertainment - 7.891.761 vistas",
+   "label": "120.048 vistas/h",
    "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
-   "heat": 74
+   "heat": 81
   },
   {
    "title": "Academia de Televisión y de las Ciencias y Artes del Audiovisual de España",
@@ -32,6 +32,14 @@
    "label": "+1413 %",
    "url": "https://es.wikipedia.org/wiki/Academia_de_Televisi%C3%B3n_y_de_las_Ciencias_y_Artes_del_Audiovisual_de_Espa%C3%B1a",
    "heat": 74
+  },
+  {
+   "title": "El Punto MÁS ALTO del Mapa (GTA VI)",
+   "source": "yt",
+   "meta": "Rubius Z - 1.317.464 vistas",
+   "label": "98.827 vistas/h",
+   "url": "https://www.youtube.com/watch?v=hoaawDTuKeE",
+   "heat": 66
   },
   {
    "title": "Toñi Moreno",
@@ -82,12 +90,12 @@
    "heat": 43
   },
   {
-   "title": "MI PRIMERA VEZ EN GTA 6 - TheGrefg",
+   "title": "GTA 6 - Comienza la Aventura #1",
    "source": "yt",
-   "meta": "TheGrefg - 3.302.327 vistas",
-   "label": "60.590 vistas/h",
-   "url": "https://www.youtube.com/watch?v=IKmDcF0QhBA",
-   "heat": 33
+   "meta": "VEGETTA777 - 3.408.668 vistas",
+   "label": "50.326 vistas/h",
+   "url": "https://www.youtube.com/watch?v=xdAHChvTT9s",
+   "heat": 34
   },
   {
    "title": "Rebeca Torró",
@@ -98,12 +106,12 @@
    "heat": 32
   },
   {
-   "title": "GTA 6 - Comienza la Aventura #1",
+   "title": "1 HORA de MUNDO ABIERTO en GTA 6 (Sin Spoilers)",
    "source": "yt",
-   "meta": "VEGETTA777 - 3.255.756 vistas",
-   "label": "55.192 vistas/h",
-   "url": "https://www.youtube.com/watch?v=xdAHChvTT9s",
-   "heat": 30
+   "meta": "Willyrex - 2.910.061 vistas",
+   "label": "41.613 vistas/h",
+   "url": "https://www.youtube.com/watch?v=MPZ45FW1u3k",
+   "heat": 28
   },
   {
    "title": "Luis Fonsi",
@@ -122,12 +130,12 @@
    "heat": 28
   },
   {
-   "title": "1 HORA de MUNDO ABIERTO en GTA 6 (Sin Spoilers)",
+   "title": "20.000.000 DE SUBS JUGANDO GTA 6 - TheGrefg",
    "source": "yt",
-   "meta": "Willyrex - 2.881.797 vistas",
-   "label": "47.097 vistas/h",
-   "url": "https://www.youtube.com/watch?v=MPZ45FW1u3k",
-   "heat": 26
+   "meta": "TheGrefg - 592.324 vistas",
+   "label": "37.068 vistas/h",
+   "url": "https://www.youtube.com/watch?v=lLk5_GDh0a0",
+   "heat": 25
   },
   {
    "title": "Alberto Núñez Feijóo",
@@ -140,24 +148,16 @@
   {
    "title": "MI PRIMERA VEZ EN LA PLAYA DE GTA 6",
    "source": "yt",
-   "meta": "DaniRep | +6 Vídeos Diarios De GTA 5 Online! - 1.449.108 vistas",
-   "label": "40.266 vistas/h",
+   "meta": "DaniRep | +6 Vídeos Diarios De GTA 5 Online! - 1.496.616 vistas",
+   "label": "33.459 vistas/h",
    "url": "https://www.youtube.com/watch?v=-FNuQtUHNr8",
-   "heat": 22
-  },
-  {
-   "title": "Lo que dicen de verdad las reseñas de GTA 6",
-   "source": "yt",
-   "meta": "BaityLive - 1.234.360 vistas",
-   "label": "36.461 vistas/h",
-   "url": "https://www.youtube.com/watch?v=F52Jzdiy7HA",
-   "heat": 20
+   "heat": 23
   },
   {
    "title": "Trailer final de Avengers Doomsday última fecha y nuevas escenas Magneto y Steve Rogers",
    "source": "yt",
-   "meta": "Pelicomic - 825.409 vistas",
-   "label": "30.844 vistas/h",
+   "meta": "Pelicomic - 902.491 vistas",
+   "label": "25.420 vistas/h",
    "url": "https://www.youtube.com/watch?v=0QnFp6xw3FE",
    "heat": 17
   },
@@ -188,56 +188,56 @@
   {
    "title": "NEMZZZ - LAMINE YAMAL FEAT. LA PANTERA [OFFICIAL VIDEO]",
    "source": "yt",
-   "meta": "Nemzzz - 134.651 vistas",
-   "label": "14.968 vistas/h",
+   "meta": "Nemzzz - 202.957 vistas",
+   "label": "11.442 vistas/h",
    "url": "https://www.youtube.com/watch?v=hJWWFu5o1Bk",
    "heat": 8
   },
   {
    "title": "OWA - KAPO (Video Oficial)",
    "source": "yt",
-   "meta": "Kapo - 340.052 vistas",
-   "label": "13.081 vistas/h",
+   "meta": "Kapo - 401.394 vistas",
+   "label": "11.555 vistas/h",
    "url": "https://www.youtube.com/watch?v=Q0qoa-8XN8I",
-   "heat": 7
-  },
-  {
-   "title": "Myke Towers & Rauw Alejandro - TREMENDO DESASTRE (Visualizer)",
-   "source": "yt",
-   "meta": "Myke Towers - 255.860 vistas",
-   "label": "10.236 vistas/h",
-   "url": "https://www.youtube.com/watch?v=kl4TnwoHIUI",
-   "heat": 6
+   "heat": 8
   },
   {
    "title": "Kristina, Quevedo, Came Beats - SOY MEJOR 2.0 (Videoclip Oficial)",
    "source": "yt",
-   "meta": "KristtinaVEVO - 238.383 vistas",
-   "label": "8.833 vistas/h",
+   "meta": "KristtinaVEVO - 264.059 vistas",
+   "label": "7.390 vistas/h",
    "url": "https://www.youtube.com/watch?v=LOVriCF9ngo",
    "heat": 5
   },
   {
-   "title": "Estopa - La Maketa (En Directo)",
+   "title": "LOLA INDIGO Y LUCHO RK - EL BACHATON DE LA L en los40 music awards",
    "source": "yt",
-   "meta": "Estopa - 77.438 vistas",
-   "label": "2.868 vistas/h",
-   "url": "https://www.youtube.com/watch?v=TNTScPlJYlo",
+   "meta": "Lola Indigo - 60.226 vistas",
+   "label": "4.353 vistas/h",
+   "url": "https://www.youtube.com/watch?v=FPgwsQvcxIA",
+   "heat": 3
+  },
+  {
+   "title": "Estopa - Incendio (Video Oficial)",
+   "source": "yt",
+   "meta": "EstopaVEVO - 82.424 vistas",
+   "label": "2.306 vistas/h",
+   "url": "https://www.youtube.com/watch?v=Dwajl3irg70",
    "heat": 2
   },
   {
    "title": "Ice Age: En Ebullición | Tráiler Oficial | 5 de febrero de 2027 solo en cines",
    "source": "yt",
-   "meta": "Disney España - 33.524 vistas",
-   "label": "2.247 vistas/h",
+   "meta": "Disney España - 35.893 vistas",
+   "label": "1.517 vistas/h",
    "url": "https://www.youtube.com/watch?v=rtlLSoAEUSs",
    "heat": 1
   },
   {
    "title": "ICE AGE: EN EBULLICIÓN Tráiler Oficial Español (2027)",
    "source": "yt",
-   "meta": "Trailers In Spanish - 28.007 vistas",
-   "label": "2.090 vistas/h",
+   "meta": "Trailers In Spanish - 34.232 vistas",
+   "label": "1.546 vistas/h",
    "url": "https://www.youtube.com/watch?v=cN6djtzF-aA",
    "heat": 1
   }
