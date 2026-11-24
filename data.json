@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-24T08:54:08.229717+00:00",
+ "updated": "2026-11-24T19:59:54.003800+00:00",
  "items": [
   {
    "title": "Anuel AA | SE TOCO EL T*TITO CON MI GL*CK (Video Oficial)",
    "source": "yt",
-   "meta": "Anuel AA - 10.522.560 vistas",
-   "label": "125.211 vistas/h",
+   "meta": "Anuel AA - 13.947.473 vistas",
+   "label": "146.608 vistas/h",
    "url": "https://www.youtube.com/watch?v=1lOvAvBlzSM",
    "heat": 100
   },
@@ -24,14 +24,6 @@
    "label": "+2069 %",
    "url": "https://es.wikipedia.org/wiki/Albert_DeSalvo",
    "heat": 89
-  },
-  {
-   "title": "Conseguí 6 Estrellas en GTA 6 ⭐",
-   "source": "yt",
-   "meta": "Rubius Z - 3.774.915 vistas",
-   "label": "100.295 vistas/h",
-   "url": "https://www.youtube.com/watch?v=NrNdw_Y6_bI",
-   "heat": 80
   },
   {
    "title": "Azúcar Moreno",
@@ -58,20 +50,12 @@
    "heat": 72
   },
   {
-   "title": "AAA Trailer FINAL Avengers Doomsday confirma trama de Steve Rogers y X Men, poder Thor y Doom",
+   "title": "Conseguí 6 Estrellas en GTA 6 ⭐",
    "source": "yt",
-   "meta": "Pelicomic - 947.880 vistas",
-   "label": "74.439 vistas/h",
-   "url": "https://www.youtube.com/watch?v=1i6-K_90Vg4",
-   "heat": 59
-  },
-  {
-   "title": "GTA 6 | DIA 6 MODO HISTORIA - DjMaRiiO",
-   "source": "yt",
-   "meta": "DjMaRiiO - 609.308 vistas",
-   "label": "68.295 vistas/h",
-   "url": "https://www.youtube.com/watch?v=8u-E5T-YDO4",
-   "heat": 55
+   "meta": "Rubius Z - 4.063.209 vistas",
+   "label": "83.375 vistas/h",
+   "url": "https://www.youtube.com/watch?v=NrNdw_Y6_bI",
+   "heat": 57
   },
   {
    "title": "El estrangulador de Boston (película)",
@@ -122,6 +106,14 @@
    "heat": 43
   },
   {
+   "title": "AAA Trailer FINAL Avengers Doomsday confirma trama de Steve Rogers y X Men, poder Thor y Doom",
+   "source": "yt",
+   "meta": "Pelicomic - 1.136.576 vistas",
+   "label": "47.695 vistas/h",
+   "url": "https://www.youtube.com/watch?v=1i6-K_90Vg4",
+   "heat": 33
+  },
+  {
    "title": "Walas",
    "source": "wk",
    "meta": "7.102 visitas en un día",
@@ -154,92 +146,100 @@
    "heat": 31
   },
   {
-   "title": "MI PRIMERA VEZ ATRACANDO UN BANCO EN GTA 6",
-   "source": "yt",
-   "meta": "DaniRep | +6 Vídeos Diarios De GTA 5 Online! - 535.120 vistas",
-   "label": "35.928 vistas/h",
-   "url": "https://www.youtube.com/watch?v=bfGGEJOpzDM",
-   "heat": 29
-  },
-  {
    "title": "Vengadores: Doomsday | Tráiler Final | Jueves 17 de diciembre solo en cines",
    "source": "yt",
-   "meta": "Marvel España - 606.347 vistas",
-   "label": "33.107 vistas/h",
+   "meta": "Marvel España - 882.377 vistas",
+   "label": "30.002 vistas/h",
    "url": "https://www.youtube.com/watch?v=Za9hdie_SPg",
-   "heat": 26
-  },
-  {
-   "title": "El Primero en Cruzar el Mapa Completo de GTA VI Gana 1000€",
-   "source": "yt",
-   "meta": "BagBoyz Two - 368.126 vistas",
-   "label": "25.314 vistas/h",
-   "url": "https://www.youtube.com/watch?v=vBbZJjz8GaQ",
    "heat": 20
   },
   {
-   "title": "Hice los MEJORES ATRACOS de GTA 6!",
+   "title": "EXPLORANDO LEONIDA KEYS 🐊 - Grand Theft Auto VI #2",
    "source": "yt",
-   "meta": "Willyrex - 601.696 vistas",
-   "label": "20.096 vistas/h",
-   "url": "https://www.youtube.com/watch?v=3LYEUR6qVOc",
-   "heat": 16
+   "meta": "IlloJuan - 2.957.420 vistas",
+   "label": "29.171 vistas/h",
+   "url": "https://www.youtube.com/watch?v=Ezr5Fo5WIWE",
+   "heat": 20
+  },
+  {
+   "title": "MI PRIMERA VEZ ATRACANDO UN BANCO EN GTA 6",
+   "source": "yt",
+   "meta": "DaniRep | +6 Vídeos Diarios De GTA 5 Online! - 718.277 vistas",
+   "label": "27.636 vistas/h",
+   "url": "https://www.youtube.com/watch?v=bfGGEJOpzDM",
+   "heat": 19
   },
   {
    "title": "Myke Towers & Rauw Alejandro - TREMENDO DESASTRE (Official Music Video)",
    "source": "yt",
-   "meta": "Myke Towers - 641.973 vistas",
-   "label": "15.696 vistas/h",
+   "meta": "Myke Towers - 1.462.507 vistas",
+   "label": "28.127 vistas/h",
    "url": "https://www.youtube.com/watch?v=N6AzI_oU6LE",
-   "heat": 13
+   "heat": 19
+  },
+  {
+   "title": "El Primero en Cruzar el Mapa Completo de GTA VI Gana 1000€",
+   "source": "yt",
+   "meta": "BagBoyz Two - 628.201 vistas",
+   "label": "24.502 vistas/h",
+   "url": "https://www.youtube.com/watch?v=vBbZJjz8GaQ",
+   "heat": 17
+  },
+  {
+   "title": "Hice los MEJORES ATRACOS de GTA 6!",
+   "source": "yt",
+   "meta": "Willyrex - 678.025 vistas",
+   "label": "16.522 vistas/h",
+   "url": "https://www.youtube.com/watch?v=3LYEUR6qVOc",
+   "heat": 11
   },
   {
    "title": "Maluma - Sobrio (Letra/Lyrics)",
    "source": "yt",
-   "meta": "7clouds Spain - 564.134 vistas",
-   "label": "14.319 vistas/h",
+   "meta": "7clouds Spain - 681.914 vistas",
+   "label": "13.505 vistas/h",
    "url": "https://www.youtube.com/watch?v=5WNr3Vmgq0A",
-   "heat": 11
+   "heat": 9
+  },
+  {
+   "title": "Don Omar - Dile (Letra) Old School Reggaeton",
+   "source": "yt",
+   "meta": "Amor Estelar - 237.974 vistas",
+   "label": "8.616 vistas/h",
+   "url": "https://www.youtube.com/watch?v=VYXaavP-NFQ",
+   "heat": 6
   },
   {
    "title": "¡A MÍ, MIS X-MEN! ¡AAAAAAH! 🔥 Reacción al TRÁILER FINAL de AVENGERS DOOMSDAY",
    "source": "yt",
-   "meta": "La botella de Kandor - 217.107 vistas",
-   "label": "12.035 vistas/h",
+   "meta": "La botella de Kandor - 241.127 vistas",
+   "label": "8.276 vistas/h",
    "url": "https://www.youtube.com/watch?v=Y_htr7JNyM0",
-   "heat": 10
+   "heat": 6
   },
   {
    "title": "¡ANALIZAMOS EL NUEVO TRÁILER DE VENGADORES DOOMSDAY!",
    "source": "yt",
-   "meta": "De todo un Paco - 210.563 vistas",
-   "label": "12.530 vistas/h",
+   "meta": "De todo un Paco - 235.326 vistas",
+   "label": "8.434 vistas/h",
    "url": "https://www.youtube.com/watch?v=cv6_plXb6Iw",
-   "heat": 10
+   "heat": 6
   },
   {
    "title": "¡LA P*TA HOSTIA! Tráiler FINAL de AVENGERS: DOOMSDAY",
    "source": "yt",
-   "meta": "Strip Marvel I Marvel, DC & Superhéroes - 163.525 vistas",
-   "label": "11.010 vistas/h",
+   "meta": "Strip Marvel I Marvel, DC & Superhéroes - 205.559 vistas",
+   "label": "7.921 vistas/h",
    "url": "https://www.youtube.com/watch?v=fEXWQ9DXdvc",
-   "heat": 9
-  },
-  {
-   "title": "Kristina, Quevedo, Came Beats - SOY MEJOR 2.0 (Videoclip Oficial)",
-   "source": "yt",
-   "meta": "KristtinaVEVO - 666.567 vistas",
-   "label": "6.294 vistas/h",
-   "url": "https://www.youtube.com/watch?v=LOVriCF9ngo",
    "heat": 5
   },
   {
    "title": "Don Omar - Virtual Diva (Letra)",
    "source": "yt",
-   "meta": "The Best Flow - 209.407 vistas",
-   "label": "5.119 vistas/h",
+   "meta": "The Best Flow - 368.388 vistas",
+   "label": "7.084 vistas/h",
    "url": "https://www.youtube.com/watch?v=12QNKcrTrnw",
-   "heat": 4
+   "heat": 5
   }
  ]
 }
