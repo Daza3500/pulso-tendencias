@@ -1,237 +1,245 @@
 {
- "updated": "2026-11-23T23:39:58.827657+00:00",
+ "updated": "2026-11-24T08:54:08.229717+00:00",
  "items": [
   {
    "title": "Anuel AA | SE TOCO EL T*TITO CON MI GL*CK (Video Oficial)",
    "source": "yt",
-   "meta": "Anuel AA - 10.028.769 vistas",
-   "label": "134.070 vistas/h",
+   "meta": "Anuel AA - 10.522.560 vistas",
+   "label": "125.211 vistas/h",
    "url": "https://www.youtube.com/watch?v=1lOvAvBlzSM",
    "heat": 100
   },
   {
-   "title": "El Chapo Isidro",
+   "title": "Elvira Lindo",
    "source": "wk",
-   "meta": "61.950 visitas en un día",
-   "label": "+8094 %",
-   "url": "https://es.wikipedia.org/wiki/El_Chapo_Isidro",
+   "meta": "20.231 visitas en un día",
+   "label": "+2314 %",
+   "url": "https://es.wikipedia.org/wiki/Elvira_Lindo",
    "heat": 100
+  },
+  {
+   "title": "Albert DeSalvo",
+   "source": "wk",
+   "meta": "18.176 visitas en un día",
+   "label": "+2069 %",
+   "url": "https://es.wikipedia.org/wiki/Albert_DeSalvo",
+   "heat": 89
   },
   {
    "title": "Conseguí 6 Estrellas en GTA 6 ⭐",
    "source": "yt",
-   "meta": "Rubius Z - 3.152.413 vistas",
-   "label": "110.993 vistas/h",
+   "meta": "Rubius Z - 3.774.915 vistas",
+   "label": "100.295 vistas/h",
    "url": "https://www.youtube.com/watch?v=NrNdw_Y6_bI",
-   "heat": 83
+   "heat": 80
+  },
+  {
+   "title": "Azúcar Moreno",
+   "source": "wk",
+   "meta": "15.779 visitas en un día",
+   "label": "+1783 %",
+   "url": "https://es.wikipedia.org/wiki/Az%C3%BAcar_Moreno",
+   "heat": 77
+  },
+  {
+   "title": "Almudena Grandes",
+   "source": "wk",
+   "meta": "15.596 visitas en un día",
+   "label": "+1761 %",
+   "url": "https://es.wikipedia.org/wiki/Almudena_Grandes",
+   "heat": 76
+  },
+  {
+   "title": "Giacomo Agostini",
+   "source": "wk",
+   "meta": "14.775 visitas en un día",
+   "label": "+1663 %",
+   "url": "https://es.wikipedia.org/wiki/Giacomo_Agostini",
+   "heat": 72
   },
   {
    "title": "AAA Trailer FINAL Avengers Doomsday confirma trama de Steve Rogers y X Men, poder Thor y Doom",
    "source": "yt",
-   "meta": "Pelicomic - 252.392 vistas",
-   "label": "72.160 vistas/h",
+   "meta": "Pelicomic - 947.880 vistas",
+   "label": "74.439 vistas/h",
    "url": "https://www.youtube.com/watch?v=1i6-K_90Vg4",
-   "heat": 54
+   "heat": 59
+  },
+  {
+   "title": "GTA 6 | DIA 6 MODO HISTORIA - DjMaRiiO",
+   "source": "yt",
+   "meta": "DjMaRiiO - 609.308 vistas",
+   "label": "68.295 vistas/h",
+   "url": "https://www.youtube.com/watch?v=8u-E5T-YDO4",
+   "heat": 55
+  },
+  {
+   "title": "El estrangulador de Boston (película)",
+   "source": "wk",
+   "meta": "11.417 visitas en un día",
+   "label": "+1262 %",
+   "url": "https://es.wikipedia.org/wiki/El_estrangulador_de_Boston_%28pel%C3%ADcula%29",
+   "heat": 55
+  },
+  {
+   "title": "MotoGP",
+   "source": "wk",
+   "meta": "18.805 visitas en un día",
+   "label": "+1136 %",
+   "url": "https://es.wikipedia.org/wiki/MotoGP",
+   "heat": 49
+  },
+  {
+   "title": "Marc Márquez",
+   "source": "wk",
+   "meta": "39.031 visitas en un día",
+   "label": "+1055 %",
+   "url": "https://es.wikipedia.org/wiki/Marc_M%C3%A1rquez",
+   "heat": 46
+  },
+  {
+   "title": "Antonio Muñoz Molina",
+   "source": "wk",
+   "meta": "9.606 visitas en un día",
+   "label": "+1046 %",
+   "url": "https://es.wikipedia.org/wiki/Antonio_Mu%C3%B1oz_Molina",
+   "heat": 45
+  },
+  {
+   "title": "Valentino Rossi",
+   "source": "wk",
+   "meta": "14.210 visitas en un día",
+   "label": "+1023 %",
+   "url": "https://es.wikipedia.org/wiki/Valentino_Rossi",
+   "heat": 44
+  },
+  {
+   "title": "Isabel Allende",
+   "source": "wk",
+   "meta": "13.810 visitas en un día",
+   "label": "+1000 %",
+   "url": "https://es.wikipedia.org/wiki/Isabel_Allende",
+   "heat": 43
+  },
+  {
+   "title": "Walas",
+   "source": "wk",
+   "meta": "7.102 visitas en un día",
+   "label": "+747 %",
+   "url": "https://es.wikipedia.org/wiki/Walas",
+   "heat": 32
+  },
+  {
+   "title": "Campeonato Mundial de Motociclismo",
+   "source": "wk",
+   "meta": "6.990 visitas en un día",
+   "label": "+734 %",
+   "url": "https://es.wikipedia.org/wiki/Campeonato_Mundial_de_Motociclismo",
+   "heat": 32
+  },
+  {
+   "title": "Miley Cyrus",
+   "source": "wk",
+   "meta": "14.967 visitas en un día",
+   "label": "+718 %",
+   "url": "https://es.wikipedia.org/wiki/Miley_Cyrus",
+   "heat": 31
+  },
+  {
+   "title": "Peio Etxeberria",
+   "source": "wk",
+   "meta": "6.800 visitas en un día",
+   "label": "+711 %",
+   "url": "https://es.wikipedia.org/wiki/Peio_Etxeberria",
+   "heat": 31
+  },
+  {
+   "title": "MI PRIMERA VEZ ATRACANDO UN BANCO EN GTA 6",
+   "source": "yt",
+   "meta": "DaniRep | +6 Vídeos Diarios De GTA 5 Online! - 535.120 vistas",
+   "label": "35.928 vistas/h",
+   "url": "https://www.youtube.com/watch?v=bfGGEJOpzDM",
+   "heat": 29
   },
   {
    "title": "Vengadores: Doomsday | Tráiler Final | Jueves 17 de diciembre solo en cines",
    "source": "yt",
-   "meta": "Marvel España - 485.713 vistas",
-   "label": "53.501 vistas/h",
+   "meta": "Marvel España - 606.347 vistas",
+   "label": "33.107 vistas/h",
    "url": "https://www.youtube.com/watch?v=Za9hdie_SPg",
-   "heat": 40
-  },
-  {
-   "title": "MI PRIMERA VEZ JUGANDO CARRERAS CON SUPER COCHES EN GTA 6",
-   "source": "yt",
-   "meta": "DaniRep | +6 Vídeos Diarios De GTA 5 Online! - 410.019 vistas",
-   "label": "42.429 vistas/h",
-   "url": "https://www.youtube.com/watch?v=4_REzLxZK1M",
-   "heat": 32
-  },
-  {
-   "title": "Jesús de Miguel Alameda",
-   "source": "wk",
-   "meta": "19.413 visitas en un día",
-   "label": "+2461 %",
-   "url": "https://es.wikipedia.org/wiki/Jes%C3%BAs_de_Miguel_Alameda",
-   "heat": 30
+   "heat": 26
   },
   {
    "title": "El Primero en Cruzar el Mapa Completo de GTA VI Gana 1000€",
    "source": "yt",
-   "meta": "BagBoyz Two - 206.773 vistas",
-   "label": "38.969 vistas/h",
+   "meta": "BagBoyz Two - 368.126 vistas",
+   "label": "25.314 vistas/h",
    "url": "https://www.youtube.com/watch?v=vBbZJjz8GaQ",
-   "heat": 29
-  },
-  {
-   "title": "Tomás Cuello",
-   "source": "wk",
-   "meta": "17.184 visitas en un día",
-   "label": "+2173 %",
-   "url": "https://es.wikipedia.org/wiki/Tom%C3%A1s_Cuello",
-   "heat": 27
-  },
-  {
-   "title": "Carlos Espí",
-   "source": "wk",
-   "meta": "12.218 visitas en un día",
-   "label": "+1516 %",
-   "url": "https://es.wikipedia.org/wiki/Carlos_Esp%C3%AD",
-   "heat": 19
+   "heat": 20
   },
   {
    "title": "Hice los MEJORES ATRACOS de GTA 6!",
    "source": "yt",
-   "meta": "Willyrex - 469.876 vistas",
-   "label": "22.694 vistas/h",
+   "meta": "Willyrex - 601.696 vistas",
+   "label": "20.096 vistas/h",
    "url": "https://www.youtube.com/watch?v=3LYEUR6qVOc",
-   "heat": 17
-  },
-  {
-   "title": "¡ANALIZAMOS EL NUEVO TRÁILER DE VENGADORES DOOMSDAY!",
-   "source": "yt",
-   "meta": "De todo un Paco - 158.423 vistas",
-   "label": "20.934 vistas/h",
-   "url": "https://www.youtube.com/watch?v=cv6_plXb6Iw",
    "heat": 16
-  },
-  {
-   "title": "Santiago Ascacíbar",
-   "source": "wk",
-   "meta": "10.105 visitas en un día",
-   "label": "+1237 %",
-   "url": "https://es.wikipedia.org/wiki/Santiago_Ascac%C3%ADbar",
-   "heat": 15
-  },
-  {
-   "title": "¡LA P*TA HOSTIA! Tráiler FINAL de AVENGERS: DOOMSDAY",
-   "source": "yt",
-   "meta": "Strip Marvel I Marvel, DC & Superhéroes - 101.941 vistas",
-   "label": "18.151 vistas/h",
-   "url": "https://www.youtube.com/watch?v=fEXWQ9DXdvc",
-   "heat": 14
-  },
-  {
-   "title": "¡A MÍ, MIS X-MEN! ¡AAAAAAH! 🔥 Reacción al TRÁILER FINAL de AVENGERS DOOMSDAY",
-   "source": "yt",
-   "meta": "La botella de Kandor - 166.684 vistas",
-   "label": "18.936 vistas/h",
-   "url": "https://www.youtube.com/watch?v=Y_htr7JNyM0",
-   "heat": 14
-  },
-  {
-   "title": "Victoria Eugenia de Battenberg",
-   "source": "wk",
-   "meta": "8.882 visitas en un día",
-   "label": "+1075 %",
-   "url": "https://es.wikipedia.org/wiki/Victoria_Eugenia_de_Battenberg",
-   "heat": 13
   },
   {
    "title": "Myke Towers & Rauw Alejandro - TREMENDO DESASTRE (Official Music Video)",
    "source": "yt",
-   "meta": "Myke Towers - 526.087 vistas",
-   "label": "16.614 vistas/h",
+   "meta": "Myke Towers - 641.973 vistas",
+   "label": "15.696 vistas/h",
    "url": "https://www.youtube.com/watch?v=N6AzI_oU6LE",
-   "heat": 12
-  },
-  {
-   "title": "Ben Shelton",
-   "source": "wk",
-   "meta": "10.241 visitas en un día",
-   "label": "+930 %",
-   "url": "https://es.wikipedia.org/wiki/Ben_Shelton",
-   "heat": 11
+   "heat": 13
   },
   {
    "title": "Maluma - Sobrio (Letra/Lyrics)",
    "source": "yt",
-   "meta": "7clouds Spain - 411.356 vistas",
-   "label": "13.638 vistas/h",
+   "meta": "7clouds Spain - 564.134 vistas",
+   "label": "14.319 vistas/h",
    "url": "https://www.youtube.com/watch?v=5WNr3Vmgq0A",
+   "heat": 11
+  },
+  {
+   "title": "¡A MÍ, MIS X-MEN! ¡AAAAAAH! 🔥 Reacción al TRÁILER FINAL de AVENGERS DOOMSDAY",
+   "source": "yt",
+   "meta": "La botella de Kandor - 217.107 vistas",
+   "label": "12.035 vistas/h",
+   "url": "https://www.youtube.com/watch?v=Y_htr7JNyM0",
    "heat": 10
   },
   {
-   "title": "José Bono",
-   "source": "wk",
-   "meta": "6.777 visitas en un día",
-   "label": "+796 %",
-   "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Bono",
+   "title": "¡ANALIZAMOS EL NUEVO TRÁILER DE VENGADORES DOOMSDAY!",
+   "source": "yt",
+   "meta": "De todo un Paco - 210.563 vistas",
+   "label": "12.530 vistas/h",
+   "url": "https://www.youtube.com/watch?v=cv6_plXb6Iw",
    "heat": 10
   },
   {
-   "title": "Eduardo Domínguez (entrenador)",
-   "source": "wk",
-   "meta": "10.665 visitas en un día",
-   "label": "+778 %",
-   "url": "https://es.wikipedia.org/wiki/Eduardo_Dom%C3%ADnguez_%28entrenador%29",
-   "heat": 10
-  },
-  {
-   "title": "Bernard Anício Caldeira Duarte",
-   "source": "wk",
-   "meta": "6.482 visitas en un día",
-   "label": "+757 %",
-   "url": "https://es.wikipedia.org/wiki/Bernard_An%C3%ADcio_Caldeira_Duarte",
+   "title": "¡LA P*TA HOSTIA! Tráiler FINAL de AVENGERS: DOOMSDAY",
+   "source": "yt",
+   "meta": "Strip Marvel I Marvel, DC & Superhéroes - 163.525 vistas",
+   "label": "11.010 vistas/h",
+   "url": "https://www.youtube.com/watch?v=fEXWQ9DXdvc",
    "heat": 9
-  },
-  {
-   "title": "Sebastián Villa",
-   "source": "wk",
-   "meta": "5.944 visitas en un día",
-   "label": "+686 %",
-   "url": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Villa",
-   "heat": 8
-  },
-  {
-   "title": "Nicki Nicole",
-   "source": "wk",
-   "meta": "5.931 visitas en un día",
-   "label": "+685 %",
-   "url": "https://es.wikipedia.org/wiki/Nicki_Nicole",
-   "heat": 8
-  },
-  {
-   "title": "Cártel de Guasave",
-   "source": "wk",
-   "meta": "5.811 visitas en un día",
-   "label": "+669 %",
-   "url": "https://es.wikipedia.org/wiki/C%C3%A1rtel_de_Guasave",
-   "heat": 8
-  },
-  {
-   "title": "Facundo Herrera",
-   "source": "wk",
-   "meta": "5.268 visitas en un día",
-   "label": "+597 %",
-   "url": "https://es.wikipedia.org/wiki/Facundo_Herrera",
-   "heat": 7
-  },
-  {
-   "title": "Clube Atlético Mineiro",
-   "source": "wk",
-   "meta": "20.274 visitas en un día",
-   "label": "+548 %",
-   "url": "https://es.wikipedia.org/wiki/Clube_Atl%C3%A9tico_Mineiro",
-   "heat": 7
   },
   {
    "title": "Kristina, Quevedo, Came Beats - SOY MEJOR 2.0 (Videoclip Oficial)",
    "source": "yt",
-   "meta": "KristtinaVEVO - 641.795 vistas",
-   "label": "6.639 vistas/h",
+   "meta": "KristtinaVEVO - 666.567 vistas",
+   "label": "6.294 vistas/h",
    "url": "https://www.youtube.com/watch?v=LOVriCF9ngo",
    "heat": 5
   },
   {
    "title": "Don Omar - Virtual Diva (Letra)",
    "source": "yt",
-   "meta": "The Best Flow - 140.981 vistas",
-   "label": "4.452 vistas/h",
+   "meta": "The Best Flow - 209.407 vistas",
+   "label": "5.119 vistas/h",
    "url": "https://www.youtube.com/watch?v=12QNKcrTrnw",
-   "heat": 3
+   "heat": 4
   }
  ]
 }
